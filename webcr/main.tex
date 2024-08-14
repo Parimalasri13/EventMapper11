@@ -1,0 +1,323 @@
+%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
+% Resume in Latex
+% Author : Shubham Mazumder
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
+
+\documentclass[letterpaper,10pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{soul}
+\usepackage{fontawesome}
+\input{glyphtounicode}
+\usepackage[margin=0.5in]{geometry}
+\geometry{paperwidth=9in, paperheight=12in, margin=0.5in}
+
+%----------FONT OPTIONS----------
+% Sans-serif Fonts
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault,light]{inter}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage{roboto}
+% \usepackage[sfdefault,medium]{InriaSans}
+\usepackage[default]{sourcesanspro}
+
+% Serif Fonts
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+% -------------------------------------
+%----------PAGE SETUP------------------
+% -------------------------------------
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+% \addtolength{\oddsidemargin}{0.5pt}
+% \addtolength{\evensidemargin}{0.5pt}
+% \addtolength{\textwidth}{0.9in}
+% \addtolength{\topmargin}{-0.6in}
+% \addtolength{\textheight}{1.6in}
+
+% \addtolength{\oddsidemargin}{-.875in}
+% \addtolength{\evensidemargin}{-.875in}
+% \addtolength{\textwidth}{1.75in}
+% \addtolength{\topmargin}{-.875in}
+% \addtolength{\textheight}{1.75in}
+
+% URL style
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+% ----------- Definitions -----------------------
+\def\spaceforrole{ }
+\definecolor{lightyellow}{cmyk}{0.00, 0.05, 0.20, 0.00} % Highlights
+\sethlcolor{lightyellow} % Highlights
+
+%--------------- Custom commands -----------------------
+
+\newcommand{\sectionspace}{
+\vspace{-20pt}
+}
+
+\newcommand{\subheadingtitlevspace}{
+\vspace{-3pt}
+}
+
+
+% Resume Item
+\newcommand{\resumeItem}[1]{
+  \item{
+    {#1 \vspace{-4pt}}
+  }
+}
+
+% Titles
+\newcommand{\titleItem}[1]{
+  % \textsl{\textbf{#1}}
+  \textbf{#1}
+}
+
+
+% Highlighting
+\newcommand{\highlight}[1]{
+  \textsl{\textbf{#1}}
+  % \hl{\textsl{\textbf{#1}}}
+  % \textbf{#1}
+  % \textsl{\hl{#1}}
+}
+
+% Resume Subheading
+\newcommand{\resumeSubheading}[4]{
+  \item
+     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}l@{}l}     
+      {#1} & \titleItem{#3} | {#2} & \textit{#4}\\
+    \end{tabular*}\vspace{-10pt}
+}
+
+% \newcommand{\resumeSubheading}[4]{
+%   \item
+%     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+%       \textbf{#1} & #2 \\
+%       \textit{#3} & \textit{#4} \\
+%     \end{tabular*}\vspace{-8pt}
+% }
+
+
+
+% Resume Sub-sub heading
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{#1} & \textit{#2} \\
+    \end{tabular*}\vspace{-2pt}
+}
+
+% Resume Project Heading
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & \textit{ #2} \\
+    \end{tabular*}\vspace{-9pt}
+}
+
+%Resume Subheading List
+\newcommand{\resumeSubHeadingListStart}{\subheadingtitlevspace\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+%Resume Item List
+\newcommand{\resumeItemListStart}{
+% \vspace{-1pt}
+\begin{itemize}}
+\newcommand{\resumeItemListEnd}{
+% \vspace{-6pt}
+\end{itemize}\vspace{-8pt}}
+
+%-------------------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%-------------------------------------------------------
+
+\begin{document}
+
+% -------------------------------------
+%----------HEADING---------------------
+% -------------------------------------
+
+\begin{center}
+
+    \textbf{\Large Arrabelli Varsha Reddy} \vspace{0.1cm} \\
+    \textit{+91 709-311-9393} $|$  
+    \href{https://varshareddyarrabelli.github.io/portfolio-website}{{\textit{Portfolio}}} $|$
+    \href{mailto:varshareddyarrabelli2003@gmail.com}{{\textit{Email}}} $|$ 
+    \href{https://www.linkedin.com/in/varshareddyarrabelli}{{\textit{Linkedin}}} $|$
+    \href{https://github.com/varshareddyarrabelli}{{\textit{Github}}}
+    \vspace{-8pt}    
+\end{center}
+
+
+    \vspace{0.1cm}
+% -------------------------------------
+%----------EXPERIENCE------------------
+% -------------------------------------
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National Institute of Technology, Calicut}{GPA : 8.5}{B.Tech in Computer Science}{December 2020 -- May 2024} 
+    \resumeSubheading
+      {Sri Chaitanya Junior College\hspace{1.9cm}}{\% : 93.5}{Higher Secondary Education}{May 2018 -- September 2020}
+       \resumeSubheading
+      {SPR School of Excellence\hspace{1.4cm}}{GPA : 9.8}{Secondary Education}{May 2018 -- September 2020}
+  \resumeSubHeadingListEnd
+\vspace{-0.1cm}
+
+\section{Experience}
+  \resumeSubHeadingListStart
+      \resumeProjectHeading
+           {\titleItem{{Software Engineer Intern}} $|$ \emph{Sandvine}}{January 2024 -- May, 2024}
+      \resumeItemListStart
+        \resumeItem{Developing and implementing signature-based solutions for precise 
+identification and classification of specific network traffic patterns, significantly improving accuracy and efficiency.}
+        \resumeItem{In-depth knowledge of various network protocols.
+Vigilantly monitored and addressed network leaks, analyzing, and adding signatures for different applications of` network traffic.
+}
+        \resumeItem{Established a comprehensive suite of unit test cases, enhancing the reliability and efficiency of network traffic classification algorithms.}
+
+        \resumeItem{Python / C / C++ / Wireshark}
+      \resumeItemListEnd
+\vspace{0.3cm}
+   \resumeProjectHeading
+           {\titleItem{{ML Research}} $|$ \emph{Pournami P.N. (Prof. at NIT Calicut)
+}}{July 2023 -- Jan 2024}
+      \resumeItemListStart    
+    \resumeItem{
+I was in a project under our lecturer and alongside a Ph.D. student, focused on enhancing the accuracy of image captioning models.}}
+        \resumeItem{
+Image captioning aims to detect information by describing the image content through image and text processing techniques.
+ }
+ \resumeItem{
+This project focuses on the development of an image captioning system, a novel approach merging CV and NLP. Leveraging the deep learning techniques, the system generate descriptive and relevant captions for input images.}}} 
+    \resumeItemListEnd
+    \vspace{0.3cm}
+    \resumeProjectHeading
+           {\titleItem{{Software Developer Intern}} $|$ \emph{Arcesium (D.E. Shaw Group)}}{May 2023 -- July 2023}
+      \resumeItemListStart
+        \resumeItem{Designed and implemented a Java library facilitating dynamic runtime modifications of property values in configuration files.}
+        \resumeItem{This library eliminated the need for a redeployment process, providing a seamless experience for users. The library exhibits minimal runtime and environment-specific dependencies, requiring minimal code modifications by end-users.}
+        \resumeItem{Developed a front-end interface for clients that enhances the user experience, empowering clients to make real-time adjustments without extensive technical knowledge.}
+        \resumeItem{Java / Spring / React js / SQL / Spring Boot / Git }
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+  \vspace{-0.1cm}
+
+\section{Technical Skills}
+\subheadingtitlevspace
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    {\item{
+     \titleItem{Languages}{: C, C++, Java, Python, SQL, JavaScript, PHP, Dart} \hspace{1.2cm}
+     \titleItem{Relevant Coursework}{: OS, DBMS, Computer Networks, OOPS} 
+    \titleItem{Development Tools}{: Linux, Git, Github, Docker, VS code, Wireshark} \hspace{0.2cm}
+ \titleItem{Frameworks}{: Flutter, Flask, Spring, Nextjs, Spring Boot} \hspace{1.2cm}
+    \titleItem{Web Tools}{: HTML, CSS, React, ExpressJs, NextJs, NodeJs, MYSQL, MongoDB, Firebase} 
+    }}
+    
+    }}
+ \end{itemize}
+\sectionspace
+
+\vspace{0.2cm}
+
+% -------------------------------------
+%----------PROJECTS--------------------
+% -------------------------------------
+
+ \section{Projects}
+     \resumeSubHeadingListStart
+        \resumeProjectHeading
+           {\titleItem{Event Management Website 
+\hspace{0.35cm} \href{https://github.com/varshareddyarrabelli/Event-Management-Website}{\faGithub}} $|$ \emph{Python, Flask, SQL, HTML, CSS}}{January, 2023}
+            \resumeItemListStart
+            \resumeItem{The Event Management website provides students with a comprehensive view of various organization events, offering detailed event information. }
+            \resumeItem{Students can share feedback for each event and access department-wise event listings. The search feature enables easy exploration of events by name and venue.}
+           \resumeItemListEnd
+           \vspace{0.2cm}
+              \resumeProjectHeading
+           {\titleItem{College Management System
+\hspace{0.35cm} \href{https://github.com/varshareddyarrabelli/College-Management-System}{\faGithub}} $|$ \emph{HTML, CSS, PHP, SQL}}{October, 2022}
+            \resumeItemListStart
+            \resumeItem{A website that stores student and teacher records and performs different operations on the data. }
+            \resumeItem{A website where we can also track students grades and course enrollment details and teachers to students mapping.}
+           \resumeItemListEnd
+           \hspace{0.2cm}
+              \resumeProjectHeading
+           {\titleItem{Events Buzz App 
+\hspace{0.35cm} \href{https://github.com/varshareddyarrabelli/Event-Buzz-App}{\faGithub}} $|$ \emph{Flutter, Dart, Firebase}}{March, 2023}
+            \resumeItemListStart
+            \resumeItem{Discover events within the organization and access reliable information through a structured hierarchical
+interface on the app. Stay informed and engaged with the event updates }
+            \resumeItem{Smooth App User Interface for a better user experience.}
+           \resumeItemListEnd
+           \resumeItemListEnd
+           \vspace{0.35cm}
+     \resumeSubHeadingListEnd
+\begin{minipage}[t]{0.5\textwidth}
+\section{Key Skills}
+\resumeItemListStart
+            \resumeItem{Time Management}
+            \resumeItem{Communication Skills}
+            \resumeItem{Team Work}
+            \resumeItem{Leadership Qualities}
+           \resumeItemListEnd
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+\section{Links \& Certifications}
+    \resumeItemListStart
+            \resumeItem{Problem solving certificate on HackerRank\hspace{0.35cm}{\href{https://www.hackerrank.com/certificates/3c21cef0360a}{\faExternalLink}}}
+            \resumeItem{CSS certificate on HackerRank\hspace{0.35cm}{\href{https://www.hackerrank.com/certificates/b613f251c3fe}{\faExternalLink}}}
+            \resumeItem{HackerRank Profile\hspace{0.35cm}{\href{https://www.hackerrank.com/profile/arrabelli_b20071}{\faExternalLink}}}
+            \resumeItem{LeetCode Profile\hspace{0.35cm}{\href{https://leetcode.com/varshareddyarrabelliu/}{\faExternalLink}}}
+           \resumeItemListEnd
+\end{minipage}%
+\section{Achievements}
+\resumeItemListStart
+            \resumeItem{Received job offers from Google, Salesforce, and Arcesium.}
+            \resumeItem{Top 1 percent on leet code | Competitive Programmer with a record of consistency in algorithmic problem-solving in contests. }
+            \resumeItem{Ranked amongst top 1\% in Joint Entrance Examination (JEE) Mains 2020 out of total 8.5 lakh candidates.}
+            \resumeItem{ Certified and 5-star Programmer at HackerRank.}
+           \resumeItemListEnd
+
+
+%-------------------------------------------
+\end{document}

@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+backend/node_modules
+EventMapper-master/node_modules
+Lib/*
+Scripts/*
+webcr/.eve
+
+
+
+

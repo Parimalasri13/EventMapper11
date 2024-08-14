@@ -1,0 +1,1273 @@
+Event Title,Date,Time,Location,Link,Domain
+"AI Ethics Conference",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ai-ethics-conference","Artificial Intelligence"
+"Robotics Innovation Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/robotics-innovation-summit","Artificial Intelligence"
+"Natural Language Understanding Workshop",2024-09-05,"1:00 PM - 3:30 PM","Online","https://example.com/nlu-workshop","Artificial Intelligence"
+"AI in Healthcare Symposium",2024-07-30,"11:00 AM - 3:00 PM","Chicago, USA","https://example.com/ai-healthcare-symposium","Artificial Intelligence"
+"Ethics of AI in Business Forum",2024-08-10,"9:30 AM - 12:00 PM","New York, USA","https://example.com/ai-ethics-business","Artificial Intelligence"
+"Deep Reinforcement Learning Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/deep-rl-seminar","Artificial Intelligence"
+"AI and Robotics Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Seattle, USA","https://example.com/ai-robotics-workshop","Artificial Intelligence"
+"AI for Social Good Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/ai-social-good-hackathon","Artificial Intelligence"
+"Machine Learning and AI Applications Summit",2024-09-01,"10:00 AM - 5:00 PM","Singapore","https://example.com/ml-ai-summit","Artificial Intelligence"
+"Future of AI in Finance Conference",2024-08-05,"9:30 AM - 4:00 PM","London, UK","https://example.com/ai-finance-conference","Artificial Intelligence"
+"AI Ethics Panel Discussion",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ai-ethics-panel","Artificial Intelligence"
+"Autonomous Vehicles Conference",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/autonomous-vehicles-conference","Artificial Intelligence"
+"AI in Education Symposium",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/ai-education-symposium","Artificial Intelligence"
+"Emerging Trends in AI Workshop",2024-07-28,"10:00 AM - 1:00 PM","Berlin, Germany","https://example.com/emerging-ai-trends-workshop","Artificial Intelligence"
+"AI and Law Conference",2024-08-18,"9:00 AM - 6:00 PM","Paris, France","https://example.com/ai-law-conference","Artificial Intelligence"
+"Ethical AI Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Los Angeles, USA","https://example.com/ethical-ai-bootcamp","Artificial Intelligence"
+"AI-powered Marketing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ai-marketing-seminar","Artificial Intelligence"
+"Artificial General Intelligence Forum",2024-08-08,"10:00 AM - 3:00 PM","New York, USA","https://example.com/agi-forum","Artificial Intelligence"
+"AI and Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Tokyo, Japan","https://example.com/ai-healthcare-innovation","Artificial Intelligence"
+"AI-driven Customer Experience Summit",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/ai-cx-summit","Artificial Intelligence"
+"Neural Networks in Finance Seminar",2024-08-02,"2:00 PM - 5:00 PM","Chicago, USA","https://example.com/nn-finance-seminar","Artificial Intelligence"
+"AI in Agriculture Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/ai-agriculture-conference","Artificial Intelligence"
+"AI-driven Cybersecurity Workshop",2024-07-29,"1:00 PM - 4:00 PM","Singapore","https://example.com/ai-cybersecurity-workshop","Artificial Intelligence"
+"AI and Retail Innovation Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/ai-retail-innovation","Artificial Intelligence"
+"Deep Learning Applications Seminar",2024-09-17,"2:00 PM - 5:00 PM","San Francisco, USA","https://example.com/dl-applications-seminar","Artificial Intelligence"
+"AI and IoT Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Online","https://example.com/ai-iot-summit","Artificial Intelligence"
+"AI-driven Supply Chain Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/ai-supply-chain-conference","Artificial Intelligence"
+"Virtual Reality and AI Workshop",2024-09-08,"1:00 PM - 3:00 PM","San Francisco, USA","https://example.com/vr-ai-workshop","Artificial Intelligence"
+"AI in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/ai-media-entertainment","Artificial Intelligence"
+"AI-driven Healthcare Data Analytics Symposium",2024-08-22,"10:00 AM - 2:00 PM","London, UK","https://example.com/ai-healthcare-analytics","Artificial Intelligence"
+"AI and Climate Change Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/ai-climate-change-forum","Artificial Intelligence"
+"AI Ethics Conference",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ai-ethics-conference","Machine Learning"
+"Robotics Innovation Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/robotics-innovation-summit","Machine Learning"
+"Natural Language Understanding Workshop",2024-09-05,"1:00 PM - 3:30 PM","Online","https://example.com/nlu-workshop","Machine Learning"
+"AI in Healthcare Symposium",2024-07-30,"11:00 AM - 3:00 PM","Chicago, USA","https://example.com/ai-healthcare-symposium","Machine Learning"
+"Ethics of AI in Business Forum",2024-08-10,"9:30 AM - 12:00 PM","New York, USA","https://example.com/ai-ethics-business","Machine Learning"
+"Deep Reinforcement Learning Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/deep-rl-seminar","Machine Learning"
+"AI and Robotics Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Seattle, USA","https://example.com/ai-robotics-workshop","Machine Learning"
+"AI for Social Good Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/ai-social-good-hackathon","Machine Learning"
+"Machine Learning and AI Applications Summit",2024-09-01,"10:00 AM - 5:00 PM","Singapore","https://example.com/ml-ai-summit","Machine Learning"
+"Future of AI in Finance Conference",2024-08-05,"9:30 AM - 4:00 PM","London, UK","https://example.com/ai-finance-conference","Machine Learning"
+"AI Ethics Panel Discussion",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ai-ethics-panel","Machine Learning"
+"Autonomous Vehicles Conference",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/autonomous-vehicles-conference","Machine Learning"
+"AI in Education Symposium",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/ai-education-symposium","Machine Learning"
+"Emerging Trends in AI Workshop",2024-07-28,"10:00 AM - 1:00 PM","Berlin, Germany","https://example.com/emerging-ai-trends-workshop","Machine Learning"
+"AI and Law Conference",2024-08-18,"9:00 AM - 6:00 PM","Paris, France","https://example.com/ai-law-conference","Machine Learning"
+"Ethical AI Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Los Angeles, USA","https://example.com/ethical-ai-bootcamp","Machine Learning"
+"AI-powered Marketing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ai-marketing-seminar","Machine Learning"
+"Artificial General Intelligence Forum",2024-08-08,"10:00 AM - 3:00 PM","New York, USA","https://example.com/agi-forum","Machine Learning"
+"AI and Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Tokyo, Japan","https://example.com/ai-healthcare-innovation","Machine Learning"
+"AI-driven Customer Experience Summit",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/ai-cx-summit","Machine Learning"
+"Neural Networks in Finance Seminar",2024-08-02,"2:00 PM - 5:00 PM","Chicago, USA","https://example.com/nn-finance-seminar","Machine Learning"
+"AI in Agriculture Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/ai-agriculture-conference","Machine Learning"
+"AI-driven Cybersecurity Workshop",2024-07-29,"1:00 PM - 4:00 PM","Singapore","https://example.com/ai-cybersecurity-workshop","Machine Learning"
+"AI and Retail Innovation Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/ai-retail-innovation","Machine Learning"
+"Deep Learning Applications Seminar",2024-09-17,"2:00 PM - 5:00 PM","San Francisco, USA","https://example.com/dl-applications-seminar","Machine Learning"
+"AI and IoT Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Online","https://example.com/ai-iot-summit","Machine Learning"
+"AI-driven Supply Chain Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/ai-supply-chain-conference","Machine Learning"
+"Virtual Reality and AI Workshop",2024-09-08,"1:00 PM - 3:00 PM","San Francisco, USA","https://example.com/vr-ai-workshop","Machine Learning"
+"AI in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/ai-media-entertainment","Machine Learning"
+"AI-driven Healthcare Data Analytics Symposium",2024-08-22,"10:00 AM - 2:00 PM","London, UK","https://example.com/ai-healthcare-analytics","Machine Learning"
+"AI and Climate Change Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/ai-climate-change-forum","Machine Learning"
+"Data Science Conference",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/data-science-conference","Data Science"
+"Big Data Analytics Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/big-data-analytics-summit","Data Science"
+"Machine Learning Models Workshop",2024-09-05,"1:00 PM - 3:30 PM","Online","https://example.com/ml-models-workshop","Data Science"
+"Data Science in Healthcare Symposium",2024-07-30,"11:00 AM - 3:00 PM","Chicago, USA","https://example.com/data-science-healthcare-symposium","Data Science"
+"Ethics in Data Science Forum",2024-08-10,"9:30 AM - 12:00 PM","New York, USA","https://example.com/ethics-data-science-forum","Data Science"
+"Advanced Data Visualization Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/advanced-data-visualization","Data Science"
+"Predictive Analytics Workshop",2024-08-25,"2:00 PM - 5:00 PM","Seattle, USA","https://example.com/predictive-analytics-workshop","Data Science"
+"Data Science for Social Good Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/data-science-social-good-hackathon","Data Science"
+"Artificial Intelligence and Data Science Summit",2024-09-01,"10:00 AM - 5:00 PM","Singapore","https://example.com/ai-data-science-summit","Data Science"
+"Data Science in Finance Conference",2024-08-05,"9:30 AM - 4:00 PM","London, UK","https://example.com/data-science-finance-conference","Data Science"
+"Data Ethics Panel Discussion",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/data-ethics-panel","Data Science"
+"Big Data in Action Conference",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/big-data-action-conference","Data Science"
+"Data Science in Education Symposium",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/data-science-education-symposium","Data Science"
+"Emerging Trends in Data Science Workshop",2024-07-28,"10:00 AM - 1:00 PM","Berlin, Germany","https://example.com/emerging-data-science-trends-workshop","Data Science"
+"Data Science and Law Conference",2024-08-18,"9:00 AM - 6:00 PM","Paris, France","https://example.com/data-science-law-conference","Data Science"
+"Applied Data Science Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Los Angeles, USA","https://example.com/applied-data-science-bootcamp","Data Science"
+"Data-driven Marketing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/data-driven-marketing-seminar","Data Science"
+"Big Data and Analytics Forum",2024-08-08,"10:00 AM - 3:00 PM","New York, USA","https://example.com/big-data-analytics-forum","Data Science"
+"Data Science in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Tokyo, Japan","https://example.com/data-science-healthcare-innovation","Data Science"
+"Data Science for Customer Experience Summit",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/data-science-cx-summit","Data Science"
+"Machine Learning Algorithms Seminar",2024-08-02,"2:00 PM - 5:00 PM","Chicago, USA","https://example.com/ml-algorithms-seminar","Data Science"
+"Data Science in Agriculture Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/data-science-agriculture-conference","Data Science"
+"Data-driven Cybersecurity Workshop",2024-07-29,"1:00 PM - 4:00 PM","Singapore","https://example.com/data-driven-cybersecurity-workshop","Data Science"
+"Data Science and Retail Innovation Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/data-science-retail-innovation","Data Science"
+"Advanced Data Analytics Seminar",2024-09-17,"2:00 PM - 5:00 PM","San Francisco, USA","https://example.com/advanced-data-analytics-seminar","Data Science"
+"Data Science and IoT Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Online","https://example.com/data-science-iot-summit","Data Science"
+"Data-driven Supply Chain Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/data-driven-supply-chain-conference","Data Science"
+"Virtual Reality and Data Science Workshop",2024-09-08,"1:00 PM - 3:00 PM","San Francisco, USA","https://example.com/vr-data-science-workshop","Data Science"
+"Data Science in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/data-science-media-entertainment","Data Science"
+"Data-driven Healthcare Analytics Symposium",2024-08-22,"10:00 AM - 2:00 PM","London, UK","https://example.com/data-driven-healthcare-analytics","Data Science"
+"Data Science and Climate Change Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/data-science-climate-change-forum","Data Science"
+"Cyber Security Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/cyber-security-conference","Cyber Security"
+"National Cyber Defence Summit",2024-08-20,"10:00 AM - 4:00 PM","New Delhi, India","https://nit.example.com/cyber-defence-summit","Cyber Security"
+"IIT Cyber Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","Mumbai, India","https://iit.example.com/cyber-security-workshop","Cyber Security"
+"International Cyber Threat Seminar",2024-07-30,"11:00 AM - 3:00 PM","Virtual Event","https://example.com/cyber-threat-seminar","Cyber Security"
+"Advanced Cryptography Forum",2024-08-10,"9:30 AM - 12:00 PM","Bangalore, India","https://iit.example.com/cryptography-forum","Cyber Security"
+"Ethical Hacking Workshop",2024-09-15,"10:00 AM - 4:00 PM","Chennai, India","https://nit.example.com/ethical-hacking-workshop","Cyber Security"
+"IIT Cyber Defence Hackathon",2024-08-25,"2:00 PM - 5:00 PM","Kolkata, India","https://iit.example.com/cyber-defence-hackathon","Cyber Security"
+"National Cyber Security Conference",2024-07-22,"9:00 AM - 6:00 PM","Hyderabad, India","https://nit.example.com/national-cyber-security-conference","Cyber Security"
+"Blockchain Security Summit",2024-09-01,"10:00 AM - 5:00 PM","Pune, India","https://example.com/blockchain-security-summit","Cyber Security"
+"IIT Cyber Resilience Workshop",2024-08-05,"9:30 AM - 4:00 PM","Ahmedabad, India","https://iit.example.com/cyber-resilience-workshop","Cyber Security"
+"International Cyber Ethics Panel",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/cyber-ethics-panel","Cyber Security"
+"Data Protection Conference",2024-08-15,"11:00 AM - 4:00 PM","Mysore, India","https://nit.example.com/data-protection-conference","Cyber Security"
+"IIT Cyber Security Symposium",2024-09-10,"2:00 PM - 5:00 PM","Delhi, India","https://iit.example.com/cyber-security-symposium","Cyber Security"
+"Advanced Penetration Testing Workshop",2024-07-28,"10:00 AM - 1:00 PM","Jaipur, India","https://nit.example.com/penetration-testing-workshop","Cyber Security"
+"Web Application Security Seminar",2024-08-18,"9:00 AM - 6:00 PM","Lucknow, India","https://iit.example.com/web-app-security-seminar","Cyber Security"
+"Ethical AI in Cyber Security Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chandigarh, India","https://nit.example.com/ethical-ai-cyber-bootcamp","Cyber Security"
+"IIT Cyber Incident Response Training",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://iit.example.com/cyber-incident-response-training","Cyber Security"
+"National Cyber Security Forum",2024-08-08,"10:00 AM - 3:00 PM","Guwahati, India","https://nit.example.com/national-cyber-security-forum","Cyber Security"
+"IIT Cyber Forensics Workshop",2024-09-12,"11:00 AM - 2:00 PM","Indore, India","https://iit.example.com/cyber-forensics-workshop","Cyber Security"
+"Mobile Security Conference",2024-07-18,"9:30 AM - 4:30 PM","Goa, India","https://nit.example.com/mobile-security-conference","Cyber Security"
+"IIT Cyber Threat Intelligence Seminar",2024-08-02,"2:00 PM - 5:00 PM","Patna, India","https://iit.example.com/cyber-threat-intelligence-seminar","Cyber Security"
+"Cloud Security Summit",2024-09-20,"10:00 AM - 4:00 PM","Nagpur, India","https://example.com/cloud-security-summit","Cyber Security"
+"NIT Cyber Defence Workshop",2024-07-29,"1:00 PM - 4:00 PM","Visakhapatnam, India","https://nit.example.com/cyber-defence-workshop","Cyber Security"
+"IIT Cyber Security Governance Forum",2024-08-12,"11:00 AM - 3:00 PM","Bhubaneswar, India","https://iit.example.com/cyber-security-governance-forum","Cyber Security"
+"Industrial Control Systems Security Seminar",2024-09-17,"2:00 PM - 5:00 PM","Ranchi, India","https://nit.example.com/ics-security-seminar","Cyber Security"
+"IIT Cyber Security and IoT Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Bhopal, India","https://iit.example.com/cyber-security-iot-summit","Cyber Security"
+"Artificial Intelligence in Cyber Security Conference",2024-08-14,"9:00 AM - 5:00 PM","Guwahati, India","https://example.com/ai-cyber-security-conference","Cyber Security"
+"National Cyber Incident Response Training",2024-09-08,"1:00 PM - 3:00 PM","Chennai, India","https://nit.example.com/national-cyber-incident-response-training","Cyber Security"
+"IIT Cyber Security in Healthcare Summit",2024-07-31,"11:00 AM - 4:00 PM","Delhi, India","https://iit.example.com/cyber-security-healthcare-summit","Cyber Security"
+"Advanced Cyber Security Analytics Symposium",2024-08-22,"10:00 AM - 2:00 PM","Kolkata, India","https://nit.example.com/cyber-security-analytics-symposium","Cyber Security"
+"International Cyber Security and Privacy Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/international-cyber-security-privacy-forum","Cyber Security"
+"5G Technology Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/5g-technology-conference","5G Technology"
+"International 5G Summit",2024-08-20,"10:00 AM - 4:00 PM","New York, USA","https://example.com/international-5g-summit","5G Technology"
+"5G Network Architecture Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/5g-network-architecture-workshop","5G Technology"
+"5G Applications in Healthcare Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/5g-healthcare-symposium","5G Technology"
+"Security Challenges in 5G Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/5g-security-forum","5G Technology"
+"5G Technology Trends Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/5g-trends-seminar","5G Technology"
+"5G and IoT Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/5g-iot-workshop","5G Technology"
+"5G Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/5g-innovation-hackathon","5G Technology"
+"5G for Smart Cities Summit",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/5g-smart-cities-summit","5G Technology"
+"Future of 5G in Telecommunications Conference",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/future-5g-telecom-conference","5G Technology"
+"5G Security Panel Discussion",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/5g-security-panel","5G Technology"
+"5G Deployment Strategies Conference",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/5g-deployment-conference","5G Technology"
+"5G and AI Convergence Symposium",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/5g-ai-symposium","5G Technology"
+"5G Network Optimization Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/5g-network-optimization","5G Technology"
+"5G Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/5g-policy-conference","5G Technology"
+"5G Technology Deployment Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/5g-deployment-bootcamp","5G Technology"
+"5G and Edge Computing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/5g-edge-computing-seminar","5G Technology"
+"5G for Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/5g-iiot-forum","5G Technology"
+"5G in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/5g-healthcare-innovation","5G Technology"
+"5G Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/5g-connectivity-security","5G Technology"
+"5G Network Slicing Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/5g-network-slicing-seminar","5G Technology"
+"5G and Autonomous Vehicles Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/5g-autonomous-vehicles-conference","5G Technology"
+"5G Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/5g-infrastructure-workshop","5G Technology"
+"5G Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/5g-privacy-forum","5G Technology"
+"5G Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/5g-network-performance","5G Technology"
+"5G and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/5g-smart-grid-summit","5G Technology"
+"5G for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/5g-rural-connectivity-conference","5G Technology"
+"5G and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/5g-mobile-edge-computing","5G Technology"
+"5G in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/5g-media-entertainment","5G Technology"
+"5G Network Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/5g-security-privacy-symposium","5G Technology"
+"5G and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/5g-environmental-sustainability","5G Technology"
+"IoT World Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/iot-world-conference","IoT"
+"International IoT Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-iot-summit","IoT"
+"IoT Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/iot-security-workshop","IoT"
+"IoT Applications in Healthcare Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/iot-healthcare-symposium","IoT"
+"IoT in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/iot-smart-cities-forum","IoT"
+"IoT Trends Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/iot-trends-seminar","IoT"
+"IoT and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/iot-ai-workshop","IoT"
+"IoT Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/iot-innovation-hackathon","IoT"
+"Future of IoT in Telecommunications Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-iot-telecom-conference","IoT"
+"IoT Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/iot-security-panel","IoT"
+"IoT Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/iot-deployment-conference","IoT"
+"IoT and Machine Learning Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/iot-machine-learning-symposium","IoT"
+"IoT in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/iot-education-workshop","IoT"
+"IoT Trends and Innovations Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/iot-trends-innovations-workshop","IoT"
+"IoT Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/iot-policy-conference","IoT"
+"IoT Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/iot-development-bootcamp","IoT"
+"IoT and Edge Computing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/iot-edge-computing-seminar","IoT"
+"IoT in Industrial Applications Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/iot-industrial-forum","IoT"
+"IoT in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/iot-healthcare-innovation","IoT"
+"IoT Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/iot-connectivity-security","IoT"
+"IoT Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/iot-network-optimization-seminar","IoT"
+"IoT and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/iot-autonomous-systems-conference","IoT"
+"IoT Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/iot-infrastructure-workshop","IoT"
+"IoT Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/iot-privacy-forum","IoT"
+"IoT Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/iot-network-performance","IoT"
+"IoT and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/iot-smart-grid-summit","IoT"
+"IoT for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/iot-rural-connectivity-conference","IoT"
+"IoT and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/iot-mobile-edge-computing","IoT"
+"IoT in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/iot-media-entertainment","IoT"
+"IoT Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/iot-security-privacy-symposium","IoT"
+"IoT and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/iot-environmental-sustainability","IoT"
+"Edge Computing Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/edge-computing-summit","Edge Computing"
+"International Edge Computing Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-edge-computing-conference","Edge Computing"
+"Edge Computing Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/edge-computing-security-workshop","Edge Computing"
+"Edge Computing Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/edge-computing-applications-symposium","Edge Computing"
+"Edge Computing in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/edge-computing-smart-cities-forum","Edge Computing"
+"Edge Computing Trends Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/edge-computing-trends-seminar","Edge Computing"
+"Edge Computing and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/edge-computing-ai-workshop","Edge Computing"
+"Edge Computing Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/edge-computing-innovation-hackathon","Edge Computing"
+"Future of Edge Computing Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-edge-computing-conference","Edge Computing"
+"Edge Computing Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/edge-computing-security-panel","Edge Computing"
+"Edge Computing Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/edge-computing-deployment-conference","Edge Computing"
+"Edge Computing and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/edge-computing-iot-symposium","Edge Computing"
+"Edge Computing in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/edge-computing-education-workshop","Edge Computing"
+"Edge Computing Trends and Innovations Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/edge-computing-trends-innovations-workshop","Edge Computing"
+"Edge Computing Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/edge-computing-policy-conference","Edge Computing"
+"Edge Computing Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/edge-computing-development-bootcamp","Edge Computing"
+"Edge Computing and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/edge-computing-5g-seminar","Edge Computing"
+"Edge Computing in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/edge-computing-iiot-forum","Edge Computing"
+"Edge Computing in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/edge-computing-healthcare-innovation","Edge Computing"
+"Edge Computing Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/edge-computing-connectivity-security","Edge Computing"
+"Edge Computing Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/edge-computing-network-optimization-seminar","Edge Computing"
+"Edge Computing and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/edge-computing-autonomous-systems-conference","Edge Computing"
+"Edge Computing Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/edge-computing-infrastructure-workshop","Edge Computing"
+"Edge Computing Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/edge-computing-privacy-forum","Edge Computing"
+"Edge Computing Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/edge-computing-network-performance","Edge Computing"
+"Edge Computing and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/edge-computing-smart-grid-summit","Edge Computing"
+"Edge Computing for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/edge-computing-rural-connectivity-conference","Edge Computing"
+"Edge Computing and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/edge-computing-mobile-edge-computing","Edge Computing"
+"Edge Computing in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/edge-computing-media-entertainment","Edge Computing"
+"Edge Computing Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/edge-computing-security-privacy-symposium","Edge Computing"
+"Edge Computing and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/edge-computing-environmental-sustainability","Edge Computing"
+"Edge Computing Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/edge-computing-summit","Edge Computing"
+"EdgeTech Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/edgetech-conference","Edge Computing"
+"Secure Edge Computing Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/secure-edge-computing-workshop","Edge Computing"
+"Edge Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/edge-applications-symposium","Edge Computing"
+"Edge in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/edge-smart-cities-forum","Edge Computing"
+"Trends in Edge Computing Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-edge-computing-seminar","Edge Computing"
+"Edge and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/edge-ai-workshop","Edge Computing"
+"Edge Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/edge-innovation-hackathon","Edge Computing"
+"Future Edge Computing Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-edge-computing-conference","Edge Computing"
+"Edge Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/edge-security-panel","Edge Computing"
+"Edge Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/edge-deployment-conference","Edge Computing"
+"Edge and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/edge-iot-symposium","Edge Computing"
+"Edge in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/edge-education-workshop","Edge Computing"
+"Innovations in Edge Computing Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-edge-computing-workshop","Edge Computing"
+"Edge Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/edge-policy-conference","Edge Computing"
+"Edge Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/edge-development-bootcamp","Edge Computing"
+"Edge and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/edge-5g-seminar","Edge Computing"
+"Edge in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/edge-iiot-forum","Edge Computing"
+"Edge in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/edge-healthcare-innovation","Edge Computing"
+"Edge Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/edge-connectivity-security","Edge Computing"
+"Edge Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/edge-network-optimization-seminar","Edge Computing"
+"Edge and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/edge-autonomous-systems-conference","Edge Computing"
+"Edge Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/edge-infrastructure-workshop","Edge Computing"
+"Edge Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/edge-privacy-forum","Edge Computing"
+"Edge Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/edge-network-performance","Edge Computing"
+"Edge and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/edge-smart-grid-summit","Edge Computing"
+"Edge for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/edge-rural-connectivity-conference","Edge Computing"
+"Edge and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/edge-mobile-edge-computing","Edge Computing"
+"Edge in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/edge-media-entertainment","Edge Computing"
+"Edge Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/edge-security-privacy-symposium","Edge Computing"
+"Edge and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/edge-environmental-sustainability","Edge Computing"
+"Blockchain World Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/blockchain-world-summit","Blockchain"
+"International Blockchain Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-blockchain-conference","Blockchain"
+"Blockchain Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/blockchain-security-workshop","Blockchain"
+"Blockchain Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/blockchain-applications-symposium","Blockchain"
+"Blockchain in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/blockchain-smart-cities-forum","Blockchain"
+"Trends in Blockchain Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-blockchain-seminar","Blockchain"
+"Blockchain and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/blockchain-ai-workshop","Blockchain"
+"Blockchain Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/blockchain-innovation-hackathon","Blockchain"
+"Future of Blockchain Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-blockchain-conference","Blockchain"
+"Blockchain Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/blockchain-security-panel","Blockchain"
+"Blockchain Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/blockchain-deployment-conference","Blockchain"
+"Blockchain and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/blockchain-iot-symposium","Blockchain"
+"Blockchain in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/blockchain-education-workshop","Blockchain"
+"Innovations in Blockchain Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-blockchain-workshop","Blockchain"
+"Blockchain Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/blockchain-policy-conference","Blockchain"
+"Blockchain Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/blockchain-development-bootcamp","Blockchain"
+"Blockchain and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/blockchain-5g-seminar","Blockchain"
+"Blockchain in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/blockchain-iiot-forum","Blockchain"
+"Blockchain in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/blockchain-healthcare-innovation","Blockchain"
+"Blockchain Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/blockchain-connectivity-security","Blockchain"
+"Blockchain Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/blockchain-network-optimization-seminar","Blockchain"
+"Blockchain and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/blockchain-autonomous-systems-conference","Blockchain"
+"Blockchain Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/blockchain-infrastructure-workshop","Blockchain"
+"Blockchain Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/blockchain-privacy-forum","Blockchain"
+"Blockchain Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/blockchain-network-performance","Blockchain"
+"Blockchain and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/blockchain-smart-grid-summit","Blockchain"
+"Blockchain for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/blockchain-rural-connectivity-conference","Blockchain"
+"Blockchain and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/blockchain-mobile-edge-computing","Blockchain"
+"Blockchain in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/blockchain-media-entertainment","Blockchain"
+"Blockchain Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/blockchain-security-privacy-symposium","Blockchain"
+"Blockchain and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/blockchain-environmental-sustainability","Blockchain"
+"Robotics World Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/robotics-world-summit","Robotics and Automation"
+"International Robotics Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-robotics-conference","Robotics and Automation"
+"Robotics Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/robotics-security-workshop","Robotics and Automation"
+"Robotics Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/robotics-applications-symposium","Robotics and Automation"
+"Robotics in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/robotics-smart-cities-forum","Robotics and Automation"
+"Trends in Robotics Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-robotics-seminar","Robotics and Automation"
+"Robotics and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/robotics-ai-workshop","Robotics and Automation"
+"Robotics Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/robotics-innovation-hackathon","Robotics and Automation"
+"Future of Robotics Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-robotics-conference","Robotics and Automation"
+"Robotics Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/robotics-security-panel","Robotics and Automation"
+"Robotics Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/robotics-deployment-conference","Robotics and Automation"
+"Robotics and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/robotics-iot-symposium","Robotics and Automation"
+"Robotics in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/robotics-education-workshop","Robotics and Automation"
+"Innovations in Robotics Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-robotics-workshop","Robotics and Automation"
+"Robotics Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/robotics-policy-conference","Robotics and Automation"
+"Robotics Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/robotics-development-bootcamp","Robotics and Automation"
+"Robotics and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/robotics-5g-seminar","Robotics and Automation"
+"Robotics in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/robotics-iiot-forum","Robotics and Automation"
+"Robotics in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/robotics-healthcare-innovation","Robotics and Automation"
+"Robotics Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/robotics-connectivity-security","Robotics and Automation"
+"Robotics Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/robotics-network-optimization-seminar","Robotics and Automation"
+"Robotics and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/robotics-autonomous-systems-conference","Robotics and Automation"
+"Robotics Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/robotics-infrastructure-workshop","Robotics and Automation"
+"Robotics Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/robotics-privacy-forum","Robotics and Automation"
+"Robotics Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/robotics-network-performance","Robotics and Automation"
+"Robotics and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/robotics-smart-grid-summit","Robotics and Automation"
+"Robotics for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/robotics-rural-connectivity-conference","Robotics and Automation"
+"Robotics and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/robotics-mobile-edge-computing","Robotics and Automation"
+"Robotics in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/robotics-media-entertainment","Robotics and Automation"
+"Robotics Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/robotics-security-privacy-symposium","Robotics and Automation"
+"Robotics and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/robotics-environmental-sustainability","Robotics and Automation"
+"Bioengineering World Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/bioengineering-world-summit","Bioengineering"
+"International Bioengineering Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-bioengineering-conference","Bioengineering"
+"Bioengineering Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/bioengineering-security-workshop","Bioengineering"
+"Bioengineering Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/bioengineering-applications-symposium","Bioengineering"
+"Bioengineering in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/bioengineering-smart-cities-forum","Bioengineering"
+"Trends in Bioengineering Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-bioengineering-seminar","Bioengineering"
+"Bioengineering and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/bioengineering-ai-workshop","Bioengineering"
+"Bioengineering Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/bioengineering-innovation-hackathon","Bioengineering"
+"Future of Bioengineering Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-bioengineering-conference","Bioengineering"
+"Bioengineering Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/bioengineering-security-panel","Bioengineering"
+"Bioengineering Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/bioengineering-deployment-conference","Bioengineering"
+"Bioengineering and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/bioengineering-iot-symposium","Bioengineering"
+"Bioengineering in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/bioengineering-education-workshop","Bioengineering"
+"Innovations in Bioengineering Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-bioengineering-workshop","Bioengineering"
+"Bioengineering Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/bioengineering-policy-conference","Bioengineering"
+"Bioengineering Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/bioengineering-development-bootcamp","Bioengineering"
+"Bioengineering and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/bioengineering-5g-seminar","Bioengineering"
+"Bioengineering in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/bioengineering-iiot-forum","Bioengineering"
+"Bioengineering in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/bioengineering-healthcare-innovation","Bioengineering"
+"Bioengineering Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/bioengineering-connectivity-security","Bioengineering"
+"Bioengineering Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/bioengineering-network-optimization-seminar","Bioengineering"
+"Bioengineering and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/bioengineering-autonomous-systems-conference","Bioengineering"
+"Bioengineering Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/bioengineering-infrastructure-workshop","Bioengineering"
+"Bioengineering Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/bioengineering-privacy-forum","Bioengineering"
+"Bioengineering Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/bioengineering-network-performance","Bioengineering"
+"Bioengineering and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/bioengineering-smart-grid-summit","Bioengineering"
+"Bioengineering for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/bioengineering-rural-connectivity-conference","Bioengineering"
+"Bioengineering and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/bioengineering-mobile-edge-computing","Bioengineering"
+"Bioengineering in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/bioengineering-media-entertainment","Bioengineering"
+"Bioengineering Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/bioengineering-security-privacy-symposium","Bioengineering"
+"Bioengineering and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/bioengineering-environmental-sustainability","Bioengineering"
+"Biomedical Engineering World Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/biomedical-engineering-world-summit","Biomedical Engineering"
+"International Biomedical Engineering Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-biomedical-engineering-conference","Biomedical Engineering"
+"Biomedical Engineering Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/biomedical-engineering-security-workshop","Biomedical Engineering"
+"Biomedical Engineering Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/biomedical-engineering-applications-symposium","Biomedical Engineering"
+"Biomedical Engineering in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/biomedical-engineering-smart-cities-forum","Biomedical Engineering"
+"Trends in Biomedical Engineering Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-biomedical-engineering-seminar","Biomedical Engineering"
+"Biomedical Engineering and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/biomedical-engineering-ai-workshop","Biomedical Engineering"
+"Biomedical Engineering Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/biomedical-engineering-innovation-hackathon","Biomedical Engineering"
+"Future of Biomedical Engineering Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-biomedical-engineering-conference","Biomedical Engineering"
+"Biomedical Engineering Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/biomedical-engineering-security-panel","Biomedical Engineering"
+"Biomedical Engineering Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/biomedical-engineering-deployment-conference","Biomedical Engineering"
+"Biomedical Engineering and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/biomedical-engineering-iot-symposium","Biomedical Engineering"
+"Biomedical Engineering in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/biomedical-engineering-education-workshop","Biomedical Engineering"
+"Innovations in Biomedical Engineering Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-biomedical-engineering-workshop","Biomedical Engineering"
+"Biomedical Engineering Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/biomedical-engineering-policy-conference","Biomedical Engineering"
+"Biomedical Engineering Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/biomedical-engineering-development-bootcamp","Biomedical Engineering"
+"Biomedical Engineering and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/biomedical-engineering-5g-seminar","Biomedical Engineering"
+"Biomedical Engineering in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/biomedical-engineering-iiot-forum","Biomedical Engineering"
+"Biomedical Engineering in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/biomedical-engineering-healthcare-innovation","Biomedical Engineering"
+"Biomedical Engineering Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/biomedical-engineering-connectivity-security","Biomedical Engineering"
+"Biomedical Engineering Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/biomedical-engineering-network-optimization-seminar","Biomedical Engineering"
+"Biomedical Engineering and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/biomedical-engineering-autonomous-systems-conference","Biomedical Engineering"
+"Biomedical Engineering Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/biomedical-engineering-infrastructure-workshop","Biomedical Engineering"
+"Nanotechnology World Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/nanotechnology-world-summit","Nanotechnology"
+"International Nanotechnology Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-nanotechnology-conference","Nanotechnology"
+"Nanotechnology Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/nanotechnology-security-workshop","Nanotechnology"
+"Nanotechnology Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/nanotechnology-applications-symposium","Nanotechnology"
+"Nanotechnology in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/nanotechnology-smart-cities-forum","Nanotechnology"
+"Trends in Nanotechnology Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-nanotechnology-seminar","Nanotechnology"
+"Nanotechnology and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/nanotechnology-ai-workshop","Nanotechnology"
+"Nanotechnology Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/nanotechnology-innovation-hackathon","Nanotechnology"
+"Future of Nanotechnology Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-nanotechnology-conference","Nanotechnology"
+"Nanotechnology Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/nanotechnology-security-panel","Nanotechnology"
+"Nanotechnology Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/nanotechnology-deployment-conference","Nanotechnology"
+"Nanotechnology and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/nanotechnology-iot-symposium","Nanotechnology"
+"Nanotechnology in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/nanotechnology-education-workshop","Nanotechnology"
+"Innovations in Nanotechnology Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-nanotechnology-workshop","Nanotechnology"
+"Nanotechnology Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/nanotechnology-policy-conference","Nanotechnology"
+"Nanotechnology Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/nanotechnology-development-bootcamp","Nanotechnology"
+"Nanotechnology and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/nanotechnology-5g-seminar","Nanotechnology"
+"Nanotechnology in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/nanotechnology-iiot-forum","Nanotechnology"
+"Nanotechnology in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/nanotechnology-healthcare-innovation","Nanotechnology"
+"Nanotechnology Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/nanotechnology-connectivity-security","Nanotechnology"
+"Nanotechnology Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/nanotechnology-network-optimization-seminar","Nanotechnology"
+"Nanotechnology and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/nanotechnology-autonomous-systems-conference","Nanotechnology"
+"Nanotechnology Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/nanotechnology-infrastructure-workshop","Nanotechnology"
+"Nanotechnology Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/nanotechnology-privacy-forum","Nanotechnology"
+"Nanotechnology Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/nanotechnology-network-performance","Nanotechnology"
+"Nanotechnology and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/nanotechnology-smart-grid-summit","Nanotechnology"
+"Nanotechnology for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/nanotechnology-rural-connectivity-conference","Nanotechnology"
+"Nanotechnology and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/nanotechnology-mobile-edge-computing","Nanotechnology"
+"Nanotechnology in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/nanotechnology-media-entertainment","Nanotechnology"
+"Nanotechnology Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/nanotechnology-security-privacy-symposium","Nanotechnology"
+"Nanotechnology and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/nanotechnology-environmental-sustainability","Nanotechnology"
+"Renewable Energy Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/renewable-energy-summit","Renewable Energy"
+"International Renewable Energy Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-renewable-energy-conference","Renewable Energy"
+"Renewable Energy Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/renewable-energy-security-workshop","Renewable Energy"
+"Renewable Energy Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/renewable-energy-applications-symposium","Renewable Energy"
+"Renewable Energy in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/renewable-energy-smart-cities-forum","Renewable Energy"
+"Trends in Renewable Energy Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-renewable-energy-seminar","Renewable Energy"
+"Renewable Energy and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/renewable-energy-ai-workshop","Renewable Energy"
+"Renewable Energy Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/renewable-energy-innovation-hackathon","Renewable Energy"
+"Future of Renewable Energy Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-renewable-energy-conference","Renewable Energy"
+"Renewable Energy Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/renewable-energy-security-panel","Renewable Energy"
+"Renewable Energy Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/renewable-energy-deployment-conference","Renewable Energy"
+"Renewable Energy and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/renewable-energy-iot-symposium","Renewable Energy"
+"Renewable Energy in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/renewable-energy-education-workshop","Renewable Energy"
+"Innovations in Renewable Energy Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-renewable-energy-workshop","Renewable Energy"
+"Renewable Energy Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/renewable-energy-policy-conference","Renewable Energy"
+"Renewable Energy Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/renewable-energy-development-bootcamp","Renewable Energy"
+"Renewable Energy and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/renewable-energy-5g-seminar","Renewable Energy"
+"Renewable Energy in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/renewable-energy-iiot-forum","Renewable Energy"
+"Renewable Energy in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/renewable-energy-healthcare-innovation","Renewable Energy"
+"Renewable Energy Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/renewable-energy-connectivity-security","Renewable Energy"
+"Renewable Energy Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/renewable-energy-network-optimization-seminar","Renewable Energy"
+"Renewable Energy and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/renewable-energy-autonomous-systems-conference","Renewable Energy"
+"Renewable Energy Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/renewable-energy-infrastructure-workshop","Renewable Energy"
+"Renewable Energy Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/renewable-energy-privacy-forum","Renewable Energy"
+"Renewable Energy Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/renewable-energy-network-performance","Renewable Energy"
+"Renewable Energy and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/renewable-energy-smart-grid-summit","Renewable Energy"
+"Renewable Energy for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/renewable-energy-rural-connectivity-conference","Renewable Energy"
+"Renewable Energy and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/renewable-energy-mobile-edge-computing","Renewable Energy"
+"Renewable Energy in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/renewable-energy-media-entertainment","Renewable Energy"
+"Renewable Energy Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/renewable-energy-security-privacy-symposium","Renewable Energy"
+"Renewable Energy and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/renewable-energy-environmental-sustainability","Renewable Energy"
+"Data Engineering Summit 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/data-engineering-summit","Data Engineering"
+"International Data Engineering Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-data-engineering-conference","Data Engineering"
+"Data Engineering Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/data-engineering-security-workshop","Data Engineering"
+"Data Engineering Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/data-engineering-applications-symposium","Data Engineering"
+"Data Engineering in Smart Cities Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/data-engineering-smart-cities-forum","Data Engineering"
+"Trends in Data Engineering Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-data-engineering-seminar","Data Engineering"
+"Data Engineering and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/data-engineering-ai-workshop","Data Engineering"
+"Data Engineering Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/data-engineering-innovation-hackathon","Data Engineering"
+"Future of Data Engineering Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-data-engineering-conference","Data Engineering"
+"Data Engineering Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/data-engineering-security-panel","Data Engineering"
+"Data Engineering Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/data-engineering-deployment-conference","Data Engineering"
+"Data Engineering and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/data-engineering-iot-symposium","Data Engineering"
+"Data Engineering in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/data-engineering-education-workshop","Data Engineering"
+"Innovations in Data Engineering Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-data-engineering-workshop","Data Engineering"
+"Data Engineering Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/data-engineering-policy-conference","Data Engineering"
+"Data Engineering Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/data-engineering-development-bootcamp","Data Engineering"
+"Data Engineering and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/data-engineering-5g-seminar","Data Engineering"
+"Data Engineering in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/data-engineering-iiot-forum","Data Engineering"
+"Data Engineering in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/data-engineering-healthcare-innovation","Data Engineering"
+"Data Engineering Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/data-engineering-connectivity-security","Data Engineering"
+"Data Engineering Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/data-engineering-network-optimization-seminar","Data Engineering"
+"Data Engineering and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/data-engineering-autonomous-systems-conference","Data Engineering"
+"Data Engineering Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/data-engineering-infrastructure-workshop","Data Engineering"
+"Data Engineering Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/data-engineering-privacy-forum","Data Engineering"
+"Data Engineering Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/data-engineering-network-performance","Data Engineering"
+"Data Engineering and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/data-engineering-smart-grid-summit","Data Engineering"
+"Data Engineering for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/data-engineering-rural-connectivity-conference","Data Engineering"
+"Data Engineering and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/data-engineering-mobile-edge-computing","Data Engineering"
+"Data Engineering in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/data-engineering-media-entertainment","Data Engineering"
+"Data Engineering Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/data-engineering-security-privacy-symposium","Data Engineering"
+"Data Engineering and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/data-engineering-environmental-sustainability","Data Engineering"
+"Smart City Expo 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/smart-city-expo","Smart Cities"
+"International Smart City Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-smart-city-conference","Smart Cities"
+"Smart City Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/smart-city-security-workshop","Smart Cities"
+"Smart City Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/smart-city-applications-symposium","Smart Cities"
+"Smart City Innovations Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/smart-city-innovations-forum","Smart Cities"
+"Trends in Smart Cities Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-smart-cities-seminar","Smart Cities"
+"Smart City and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/smart-city-ai-workshop","Smart Cities"
+"Smart City Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/smart-city-innovation-hackathon","Smart Cities"
+"Future of Smart Cities Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-smart-cities-conference","Smart Cities"
+"Smart City Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/smart-city-security-panel","Smart Cities"
+"Smart City Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/smart-city-deployment-conference","Smart Cities"
+"Smart City and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/smart-city-iot-symposium","Smart Cities"
+"Smart City in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/smart-city-education-workshop","Smart Cities"
+"Innovations in Smart Cities Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-smart-cities-workshop","Smart Cities"
+"Smart City Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/smart-city-policy-conference","Smart Cities"
+"Smart City Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/smart-city-development-bootcamp","Smart Cities"
+"Smart City and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/smart-city-5g-seminar","Smart Cities"
+"Smart City in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/smart-city-iiot-forum","Smart Cities"
+"Smart City in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/smart-city-healthcare-innovation","Smart Cities"
+"Smart City Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/smart-city-connectivity-security","Smart Cities"
+"Smart City Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/smart-city-network-optimization-seminar","Smart Cities"
+"Smart City and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/smart-city-autonomous-systems-conference","Smart Cities"
+"Smart City Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/smart-city-infrastructure-workshop","Smart Cities"
+"Smart City Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/smart-city-privacy-forum","Smart Cities"
+"Smart City Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/smart-city-network-performance","Smart Cities"
+"Smart City and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/smart-city-smart-grid-summit","Smart Cities"
+"Smart City for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/smart-city-rural-connectivity-conference","Smart Cities"
+"Smart City and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/smart-city-mobile-edge-computing","Smart Cities"
+"Smart City in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/smart-city-media-entertainment","Smart Cities"
+"Smart City Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/smart-city-security-privacy-symposium","Smart Cities"
+"Smart City and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/smart-city-environmental-sustainability","Smart Cities"
+"AR/VR World Expo 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ar-vr-world-expo","AR/VR"
+"International AR/VR Conference",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/international-ar-vr-conference","AR/VR"
+"AR/VR Security Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/ar-vr-security-workshop","AR/VR"
+"AR/VR Applications Symposium",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/ar-vr-applications-symposium","AR/VR"
+"AR/VR Innovations Forum",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/ar-vr-innovations-forum","AR/VR"
+"Trends in AR/VR Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-ar-vr-seminar","AR/VR"
+"AR/VR and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/ar-vr-ai-workshop","AR/VR"
+"AR/VR Innovation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/ar-vr-innovation-hackathon","AR/VR"
+"Future of AR/VR Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-ar-vr-conference","AR/VR"
+"AR/VR Security Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/ar-vr-security-panel","AR/VR"
+"AR/VR Deployment Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ar-vr-deployment-conference","AR/VR"
+"AR/VR and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/ar-vr-iot-symposium","AR/VR"
+"AR/VR in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/ar-vr-education-workshop","AR/VR"
+"Innovations in AR/VR Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-ar-vr-workshop","AR/VR"
+"AR/VR Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/ar-vr-policy-conference","AR/VR"
+"AR/VR Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/ar-vr-development-bootcamp","AR/VR"
+"AR/VR and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ar-vr-5g-seminar","AR/VR"
+"AR/VR in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/ar-vr-iiot-forum","AR/VR"
+"AR/VR in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/ar-vr-healthcare-innovation","AR/VR"
+"AR/VR Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/ar-vr-connectivity-security","AR/VR"
+"AR/VR Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/ar-vr-network-optimization-seminar","AR/VR"
+"AR/VR and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/ar-vr-autonomous-systems-conference","AR/VR"
+"AR/VR Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/ar-vr-infrastructure-workshop","AR/VR"
+"AR/VR Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/ar-vr-privacy-forum","AR/VR"
+"AR/VR Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/ar-vr-network-performance","AR/VR"
+"AR/VR and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/ar-vr-smart-grid-summit","AR/VR"
+"AR/VR for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/ar-vr-rural-connectivity-conference","AR/VR"
+"AR/VR and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/ar-vr-mobile-edge-computing","AR/VR"
+"AR/VR in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/ar-vr-media-entertainment","AR/VR"
+"AR/VR Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/ar-vr-security-privacy-symposium","AR/VR"
+"AR/VR and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/ar-vr-environmental-sustainability","AR/VR"
+"International Disaster Management Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/international-disaster-management-conference","Disaster Management"
+"Disaster Preparedness Workshop",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/disaster-preparedness-workshop","Disaster Management"
+"Emergency Response Symposium",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/emergency-response-symposium","Disaster Management"
+"Natural Disaster Recovery Forum",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/natural-disaster-recovery-forum","Disaster Management"
+"Climate Change Adaptation Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/climate-change-adaptation-conference","Disaster Management"
+"Trends in Disaster Management Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-disaster-management-seminar","Disaster Management"
+"Disaster Management and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/disaster-management-ai-workshop","Disaster Management"
+"Disaster Resilience Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/disaster-resilience-hackathon","Disaster Management"
+"Future of Disaster Management Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-disaster-management-conference","Disaster Management"
+"Disaster Management Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/disaster-management-panel","Disaster Management"
+"Disaster Response Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/disaster-response-strategies-conference","Disaster Management"
+"Disaster Management and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/disaster-management-iot-symposium","Disaster Management"
+"Disaster Management in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/disaster-management-education-workshop","Disaster Management"
+"Innovations in Disaster Management Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-disaster-management-workshop","Disaster Management"
+"Disaster Management Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/disaster-management-policy-conference","Disaster Management"
+"Disaster Management Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/disaster-management-development-bootcamp","Disaster Management"
+"Disaster Management and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/disaster-management-5g-seminar","Disaster Management"
+"Disaster Management in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/disaster-management-iiot-forum","Disaster Management"
+"Disaster Management in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/disaster-management-healthcare-innovation","Disaster Management"
+"Disaster Management Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/disaster-management-connectivity-security","Disaster Management"
+"Disaster Management Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/disaster-management-network-optimization-seminar","Disaster Management"
+"Disaster Management and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/disaster-management-autonomous-systems-conference","Disaster Management"
+"Disaster Management Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/disaster-management-infrastructure-workshop","Disaster Management"
+"Disaster Management Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/disaster-management-privacy-forum","Disaster Management"
+"Disaster Management Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/disaster-management-network-performance","Disaster Management"
+"Disaster Management and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/disaster-management-smart-grid-summit","Disaster Management"
+"Disaster Management for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/disaster-management-rural-connectivity-conference","Disaster Management"
+"Disaster Management and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/disaster-management-mobile-edge-computing","Disaster Management"
+"Disaster Management in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/disaster-management-media-entertainment","Disaster Management"
+"Disaster Management Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/disaster-management-security-privacy-symposium","Disaster Management"
+"Disaster Management and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/disaster-management-environmental-sustainability","Disaster Management"
+"International Water Resources Management Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/international-water-resources-conference","Water Resources Management"
+"Water Conservation Workshop",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/water-conservation-workshop","Water Resources Management"
+"Water Quality Symposium",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/water-quality-symposium","Water Resources Management"
+"Water Use Efficiency Forum",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/water-use-efficiency-forum","Water Resources Management"
+"Climate Change and Water Resources Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/climate-change-water-resources-conference","Water Resources Management"
+"Trends in Water Resources Management Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-water-resources-seminar","Water Resources Management"
+"Water Resources Management and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/water-resources-ai-workshop","Water Resources Management"
+"Water Conservation Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/water-conservation-hackathon","Water Resources Management"
+"Future of Water Resources Management Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-water-resources-conference","Water Resources Management"
+"Water Resources Management Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/water-resources-panel","Water Resources Management"
+"Water Management Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/water-management-strategies-conference","Water Resources Management"
+"Water Resources Management and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/water-resources-iot-symposium","Water Resources Management"
+"Water Resources Management in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/water-resources-education-workshop","Water Resources Management"
+"Innovations in Water Resources Management Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-water-resources-workshop","Water Resources Management"
+"Water Resources Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/water-resources-policy-conference","Water Resources Management"
+"Water Resources Management Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/water-resources-development-bootcamp","Water Resources Management"
+"Water Resources Management and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/water-resources-5g-seminar","Water Resources Management"
+"Water Resources Management in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/water-resources-iiot-forum","Water Resources Management"
+"Water Resources Management in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/water-resources-healthcare-innovation","Water Resources Management"
+"Water Resources Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/water-resources-connectivity-security","Water Resources Management"
+"Water Resources Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/water-resources-network-optimization-seminar","Water Resources Management"
+"Water Resources Management and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/water-resources-autonomous-systems-conference","Water Resources Management"
+"Water Resources Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/water-resources-infrastructure-workshop","Water Resources Management"
+"Water Resources Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/water-resources-privacy-forum","Water Resources Management"
+"Water Resources Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/water-resources-network-performance","Water Resources Management"
+"Water Resources Management and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/water-resources-smart-grid-summit","Water Resources Management"
+"Water Resources for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/water-resources-rural-connectivity-conference","Water Resources Management"
+"Water Resources Management and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/water-resources-mobile-edge-computing","Water Resources Management"
+"Water Resources Management in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/water-resources-media-entertainment","Water Resources Management"
+"Water Resources Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/water-resources-security-privacy-symposium","Water Resources Management"
+"Water Resources Management and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/water-resources-environmental-sustainability","Water Resources Management"
+"International Geo-Technology Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/international-geo-technology-conference","Geo-Technology"
+"Geospatial Data Analysis Workshop",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/geospatial-data-analysis-workshop","Geo-Technology"
+"Remote Sensing Symposium",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/remote-sensing-symposium","Geo-Technology"
+"GIS and Mapping Forum",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/gis-mapping-forum","Geo-Technology"
+"Climate Change and Geotechnology Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/climate-change-geotechnology-conference","Geo-Technology"
+"Trends in Geo-Technology Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-geo-technology-seminar","Geo-Technology"
+"Geo-Technology and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/geo-technology-ai-workshop","Geo-Technology"
+"Geospatial Analysis Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/geospatial-analysis-hackathon","Geo-Technology"
+"Future of Geo-Technology Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-geo-technology-conference","Geo-Technology"
+"Geo-Technology Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/geo-technology-panel","Geo-Technology"
+"Geospatial Data Management Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/geospatial-data-management-conference","Geo-Technology"
+"Geo-Technology and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/geo-technology-iot-symposium","Geo-Technology"
+"Geo-Technology in Education Workshop",2024-09-10,"2:00 PM - 5:00 PM","Online","https://example.com/geo-technology-education-workshop","Geo-Technology"
+"Innovations in Geo-Technology Workshop",2024-07-28,"10:00 AM - 1:00 PM","Seoul, South Korea","https://example.com/innovations-geo-technology-workshop","Geo-Technology"
+"Geo-Technology Policy and Regulation Conference",2024-08-18,"9:00 AM - 6:00 PM","Brussels, Belgium","https://example.com/geo-technology-policy-conference","Geo-Technology"
+"Geo-Technology Development Bootcamp",2024-09-03,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/geo-technology-development-bootcamp","Geo-Technology"
+"Geo-Technology and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/geo-technology-5g-seminar","Geo-Technology"
+"Geo-Technology in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/geo-technology-iiot-forum","Geo-Technology"
+"Geo-Technology in Healthcare Innovation Workshop",2024-09-12,"11:00 AM - 2:00 PM","Boston, USA","https://example.com/geo-technology-healthcare-innovation","Geo-Technology"
+"Geo-Technology Connectivity and Security Conference",2024-07-18,"9:30 AM - 4:30 PM","London, UK","https://example.com/geo-technology-connectivity-security","Geo-Technology"
+"Geospatial Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/geospatial-network-optimization-seminar","Geo-Technology"
+"Geo-Technology and Autonomous Systems Conference",2024-09-20,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/geo-technology-autonomous-systems-conference","Geo-Technology"
+"Geo-Technology Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/geo-technology-infrastructure-workshop","Geo-Technology"
+"Geo-Technology Privacy and Data Protection Forum",2024-08-12,"11:00 AM - 3:00 PM","Paris, France","https://example.com/geo-technology-privacy-forum","Geo-Technology"
+"Geospatial Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/geospatial-network-performance","Geo-Technology"
+"Geo-Technology and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/geo-technology-smart-grid-summit","Geo-Technology"
+"Geo-Technology for Rural Connectivity Conference",2024-08-14,"9:00 AM - 5:00 PM","Amsterdam, Netherlands","https://example.com/geo-technology-rural-connectivity-conference","Geo-Technology"
+"Geo-Technology and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/geo-technology-mobile-edge-computing","Geo-Technology"
+"Geo-Technology in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/geo-technology-media-entertainment","Geo-Technology"
+"Geo-Technology Security and Privacy Symposium",2024-08-22,"10:00 AM - 2:00 PM","Vienna, Austria","https://example.com/geo-technology-security-privacy-symposium","Geo-Technology"
+"Geo-Technology and Environmental Sustainability Forum",2024-09-19,"9:00 AM - 1:00 PM","Virtual Event","https://example.com/geo-technology-environmental-sustainability","Geo-Technology"
+"International Geo-Technology Conference 2024",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/international-geo-technology-conference","Geo-Technology"
+"Geospatial Data Analysis Workshop",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/geospatial-data-analysis-workshop","Geo-Technology"
+"Remote Sensing Symposium",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/remote-sensing-symposium","Geo-Technology"
+"GIS and Mapping Forum",2024-07-30,"11:00 AM - 3:00 PM","Los Angeles, USA","https://example.com/gis-mapping-forum","Geo-Technology"
+"Climate Change and Geotechnology Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/climate-change-geotechnology-conference","Geo-Technology"
+"Trends in Geo-Technology Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/trends-geo-technology-seminar","Geo-Technology"
+"Geo-Technology and AI Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Singapore","https://example.com/geo-technology-ai-workshop","Geo-Technology"
+"Geospatial Analysis Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/geospatial-analysis-hackathon","Geo-Technology"
+"Future of Geo-Technology Conference",2024-09-01,"10:00 AM - 5:00 PM","Dubai, UAE","https://example.com/future-geo-technology-conference","Geo-Technology"
+"Geo-Technology Panel Discussion",2024-08-05,"9:30 AM - 4:00 PM","Tokyo, Japan","https://example.com/geo-technology-panel","Geo-Technology"
+"Geospatial Data Management Strategies Conference",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/geospatial-data-management-conference","Geo-Technology"
+"Geo-Technology and IoT Symposium",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/geo-technology-iot-symposium","Geo-Technology"
+"Geo-Technology in Education Workshop",2024-09-10,,,"https://example.com/geo-technology-education-workshop","Geo-Technology"
+"Innovations in Geo-Technology Workshop",2024-07-28,,,"https://example.com/innovations-geo-technology-workshop","Geo-Technology"
+"Geo-Technology Policy and Regulation Conference",2024-08-18,,,"https://example.com/geo-technology-policy-conference","Geo-Technology"
+"Geo-Technology Development Bootcamp",2024-09-03,,,"https://example.com/geo-technology-development-bootcamp","Geo-Technology"
+"Geo-Technology and 5G Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/geo-technology-5g-seminar","Geo-Technology"
+"Geo-Technology in Industrial IoT Forum",2024-08-08,"10:00 AM - 3:00 PM","Houston, USA","https://example.com/geo-technology-iiot-forum","Geo-Technology"
+"Geo-Technology in Healthcare Innovation Workshop",2024-09-12,,,"https://example.com/geo-technology-healthcare-innovation","Geo-Technology"
+"Geo-Technology Connectivity and Security Conference",2024-07-18,,,"https://example.com/geo-technology-connectivity-security","Geo-Technology"
+"Geospatial Network Optimization Seminar",2024-08-02,"2:00 PM - 5:00 PM","Barcelona, Spain","https://example.com/geospatial-network-optimization-seminar","Geo-Technology"
+"Geo-Technology and Autonomous Systems Conference",2024-09-20,,,"https://example.com/geo-technology-autonomous-systems-conference","Geo-Technology"
+"Geo-Technology Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/geo-technology-infrastructure-workshop","Geo-Technology"
+"Geo-Technology Privacy and Data Protection Forum",2024-08-12,,,"https://example.com/geo-technology-privacy-forum","Geo-Technology"
+"Geospatial Network Performance Optimization Seminar",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/geospatial-network-performance","Geo-Technology"
+"Geo-Technology and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/geo-technology-smart-grid-summit","Geo-Technology"
+"Geo-Technology for Rural Connectivity Conference",2024-08-14,,,"https://example.com/geo-technology-rural-connectivity-conference","Geo-Technology"
+"Geo-Technology and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/geo-technology-mobile-edge-computing","Geo-Technology"
+"Geo-Technology in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/geo-technology-media-entertainment","Geo-Technology"
+"Geo-Technology Security and Privacy Symposium",2024-08-22,,,"https://example.com/geo-technology-security-privacy-symposium","Geo-Technology"
+"Geo-Technology and Environmental Sustainability Forum",2024-09-19,,,"https://example.com/geo-technology-environmental-sustainability","Geo-Technology"
+Information about Y20 batch of BTech/BS Programmes,N/A,N/A,IIT Kanpur,https://www.iitk.ac.in/new/news-archives,Academics
+"ML in Healthcare Symposium",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ml-healthcare-symposium","Machine Learning"
+"Deep Learning Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/deep-learning-summit","Machine Learning"
+"Neural Networks Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/neural-networks-workshop","Machine Learning"
+"AI and ML for Finance Forum",2024-07-30,"11:00 AM - 3:00 PM","New York, USA","https://example.com/ai-ml-finance-forum","Machine Learning"
+"ML Ethics Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/ml-ethics-conference","Machine Learning"
+"Reinforcement Learning Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/reinforcement-learning-seminar","Machine Learning"
+"ML and Robotics Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Seattle, USA","https://example.com/ml-robotics-integration-workshop","Machine Learning"
+"ML for Social Good Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/ml-social-good-hackathon","Machine Learning"
+"Future of ML in Business Conference",2024-09-01,"10:00 AM - 5:00 PM","Singapore","https://example.com/future-ml-business-conference","Machine Learning"
+"ML in Education Symposium",2024-08-05,"9:30 AM - 4:00 PM","Chicago, USA","https://example.com/ml-education-symposium","Machine Learning"
+"Applied ML Techniques Panel",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/applied-ml-techniques-panel","Machine Learning"
+"Autonomous Systems and ML Forum",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/autonomous-systems-ml-forum","Machine Learning"
+"ML in Healthcare Innovation Workshop",2024-09-10,,,"https://example.com/ml-healthcare-innovation-workshop","Machine Learning"
+"Emerging Trends in ML Workshop",2024-07-28,,,"https://example.com/emerging-trends-ml-workshop","Machine Learning"
+"ML and Law Conference",2024-08-18,,,"https://example.com/ml-law-conference","Machine Learning"
+"ML Development Bootcamp",2024-09-03,,,"https://example.com/ml-development-bootcamp","Machine Learning"
+"ML in Marketing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ml-marketing-seminar","Machine Learning"
+"Artificial General Intelligence and ML Forum",2024-08-08,"10:00 AM - 3:00 PM","New York, USA","https://example.com/agi-ml-forum","Machine Learning"
+"ML in Retail Innovation Workshop",2024-09-12,,,"https://example.com/ml-retail-innovation-workshop","Machine Learning"
+"ML-driven Customer Experience Summit",2024-07-18,,,"https://example.com/ml-customer-experience-summit","Machine Learning"
+"Neural Networks in Finance Seminar",2024-08-02,"2:00 PM - 5:00 PM","Chicago, USA","https://example.com/nn-finance-seminar","Machine Learning"
+"ML and Data Privacy Conference",2024-09-20,,,"https://example.com/ml-data-privacy-conference","Machine Learning"
+"ML Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/ml-infrastructure-deployment-workshop","Machine Learning"
+"ML for Environmental Sustainability Forum",2024-08-12,,,"https://example.com/ml-environmental-sustainability-forum","Machine Learning"
+"Geospatial Data Analysis with ML Workshop",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/geospatial-data-analysis-ml-workshop","Machine Learning"
+"ML and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/ml-smart-grid-integration-summit","Machine Learning"
+"ML for Rural Connectivity Conference",2024-08-14,,,"https://example.com/ml-rural-connectivity-conference","Machine Learning"
+"ML and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/ml-mobile-edge-computing-workshop","Machine Learning"
+"ML in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/ml-media-entertainment-summit","Machine Learning"
+"ML Security and Privacy Symposium",2024-08-22,,,"https://example.com/ml-security-privacy-symposium","Machine Learning"
+"ML for Environmental Sustainability Forum",2024-09-19,,,"https://example.com/ml-environmental-sustainability-forum","Machine Learning"
+"Advanced ML Techniques Seminar",2024-07-20,,,"https://example.com/advanced-ml-techniques-seminar","Machine Learning"
+"Deep Learning and Neural Networks Conference",2024-08-11,,,"https://example.com/deep-learning-neural-networks-conference","Machine Learning"
+"AI and ML for Finance Symposium",2024-09-06,,,"https://example.com/ai-ml-finance-symposium","Machine Learning"
+"ML in Autonomous Systems Workshop",2024-07-19,,,"https://example.com/ml-autonomous-systems-workshop","Machine Learning"
+"ML for Healthcare Innovation Forum",2024-08-03,,,"https://example.com/ml-healthcare-innovation-forum","Machine Learning"
+"ML and Data Analytics Symposium",2024-09-04,,,"https://example.com/ml-data-analytics-symposium","Machine Learning"
+"AI Ethics and ML Conference",2024-07-21,,,"https://example.com/ai-ethics-ml-conference","Machine Learning"
+"ML in Marketing and Sales Workshop",2024-08-13,,,"https://example.com/ml-marketing-sales-workshop","Machine Learning"
+"Advanced ML Applications Summit",2024-09-11,,,"https://example.com/advanced-ml-applications-summit","Machine Learning"
+"AI in Healthcare Symposium",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ai-healthcare-symposium","Artificial Intelligence"
+"Deep Learning Summit",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/deep-learning-summit","Artificial Intelligence"
+"Neural Networks Workshop",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/neural-networks-workshop","Artificial Intelligence"
+"AI for Finance Forum",2024-07-30,"11:00 AM - 3:00 PM","New York, USA","https://example.com/ai-finance-forum","Artificial Intelligence"
+"AI Ethics Conference",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/ai-ethics-conference","Artificial Intelligence"
+"Reinforcement Learning Seminar",2024-09-15,"10:00 AM - 4:00 PM","Virtual Event","https://example.com/reinforcement-learning-seminar","Artificial Intelligence"
+"AI and Robotics Integration Workshop",2024-08-25,"2:00 PM - 5:00 PM","Seattle, USA","https://example.com/ai-robotics-integration-workshop","Artificial Intelligence"
+"AI for Social Good Hackathon",2024-07-22,"9:00 AM - 6:00 PM","Bangalore, India","https://example.com/ai-social-good-hackathon","Artificial Intelligence"
+"Future of AI in Business Conference",2024-09-01,"10:00 AM - 5:00 PM","Singapore","https://example.com/future-ai-business-conference","Artificial Intelligence"
+"AI in Education Symposium",2024-08-05,"9:30 AM - 4:00 PM","Chicago, USA","https://example.com/ai-education-symposium","Artificial Intelligence"
+"Applied AI Techniques Panel",2024-07-25,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/applied-ai-techniques-panel","Artificial Intelligence"
+"Autonomous Systems and AI Forum",2024-08-15,"11:00 AM - 4:00 PM","San Francisco, USA","https://example.com/autonomous-systems-ai-forum","Artificial Intelligence"
+"AI in Healthcare Innovation Workshop",2024-09-10,,,"https://example.com/ai-healthcare-innovation-workshop","Artificial Intelligence"
+"Emerging Trends in AI Workshop",2024-07-28,,,"https://example.com/emerging-trends-ai-workshop","Artificial Intelligence"
+"AI and Law Conference",2024-08-18,,,"https://example.com/ai-law-conference","Artificial Intelligence"
+"AI Development Bootcamp",2024-09-03,,,"https://example.com/ai-development-bootcamp","Artificial Intelligence"
+"AI in Marketing Seminar",2024-07-27,"3:00 PM - 5:00 PM","Virtual Event","https://example.com/ai-marketing-seminar","Artificial Intelligence"
+"Artificial General Intelligence Forum",2024-08-08,"10:00 AM - 3:00 PM","New York, USA","https://example.com/agi-forum","Artificial Intelligence"
+"AI in Retail Innovation Workshop",2024-09-12,,,"https://example.com/ai-retail-innovation-workshop","Artificial Intelligence"
+"AI-driven Customer Experience Summit",2024-07-18,,,"https://example.com/ai-customer-experience-summit","Artificial Intelligence"
+"Neural Networks in Finance Seminar",2024-08-02,"2:00 PM - 5:00 PM","Chicago, USA","https://example.com/nn-finance-seminar","Artificial Intelligence"
+"AI and Data Privacy Conference",2024-09-20,,,"https://example.com/ai-data-privacy-conference","Artificial Intelligence"
+"AI Infrastructure and Deployment Workshop",2024-07-29,"1:00 PM - 4:00 PM","Sydney, Australia","https://example.com/ai-infrastructure-deployment-workshop","Artificial Intelligence"
+"AI for Environmental Sustainability Forum",2024-08-12,,,"https://example.com/ai-environmental-sustainability-forum","Artificial Intelligence"
+"Geospatial Data Analysis with AI Workshop",2024-09-17,"2:00 PM - 5:00 PM","Munich, Germany","https://example.com/geospatial-data-analysis-ai-workshop","Artificial Intelligence"
+"AI and Smart Grid Integration Summit",2024-07-26,"10:00 AM - 4:00 PM","Washington D.C., USA","https://example.com/ai-smart-grid-integration-summit","Artificial Intelligence"
+"AI for Rural Connectivity Conference",2024-08-14,,,"https://example.com/ai-rural-connectivity-conference","Artificial Intelligence"
+"AI and Mobile Edge Computing Workshop",2024-09-08,"1:00 PM - 3:00 PM","Toronto, Canada","https://example.com/ai-mobile-edge-computing-workshop","Artificial Intelligence"
+"AI in Media and Entertainment Summit",2024-07-31,"11:00 AM - 4:00 PM","Hollywood, USA","https://example.com/ai-media-entertainment-summit","Artificial Intelligence"
+"AI Security and Privacy Symposium",2024-08-22,,,"https://example.com/ai-security-privacy-symposium","Artificial Intelligence"
+"AI for Environmental Sustainability Forum",2024-09-19,,,"https://example.com/ai-environmental-sustainability-forum","Artificial Intelligence"
+"Advanced AI Techniques Seminar",2024-07-20,,,"https://example.com/advanced-ai-techniques-seminar","Artificial Intelligence"
+"Deep Learning and Neural Networks Conference",2024-08-11,,,"https://example.com/deep-learning-neural-networks-conference","Artificial Intelligence"
+"AI for Finance Symposium",2024-09-06,,,"https://example.com/ai-finance-symposium","Artificial Intelligence"
+"AI in Autonomous Systems Workshop",2024-07-19,,,"https://example.com/ai-autonomous-systems-workshop","Artificial Intelligence"
+"AI for Healthcare Innovation Forum",2024-08-03,,,"https://example.com/ai-healthcare-innovation-forum","Artificial Intelligence"
+"AI and Data Analytics Symposium",2024-09-04,,,"https://example.com/ai-data-analytics-symposium","Artificial Intelligence"
+"AI Ethics Conference",2024-07-21,,,"https://example.com/ai-ethics-conference","Artificial Intelligence"
+"AI in Marketing and Sales Workshop",2024-08-13,,,"https://example.com/ai-marketing-sales-workshop","Artificial Intelligence"
+"Advanced AI Applications Summit",2024-09-11,,,"https://example.com/advanced-ai-applications-summit","Artificial Intelligence"
+"AI and Cloud Computing Conference",2024-07-23,"10:00 AM - 4:00 PM","New York, USA","https://example.com/ai-cloud-computing-conference","Artificial Intelligence"
+"AI in Transportation Forum",2024-08-07,"9:30 AM - 3:00 PM","Los Angeles, USA","https://example.com/ai-transportation-forum","Artificial Intelligence"
+"AI-powered Business Solutions Symposium",2024-09-14,"11:00 AM - 2:00 PM","San Francisco, USA","https://example.com/ai-business-solutions-symposium","Artificial Intelligence"
+"AI for Smart Cities Workshop",2024-07-24,"1:00 PM - 5:00 PM","Singapore","https://example.com/ai-smart-cities-workshop","Artificial Intelligence"
+"AI in Aerospace Innovation Seminar",2024-08-09,"2:00 PM - 5:00 PM","Houston, USA","https://example.com/ai-aerospace-innovation-seminar","Artificial Intelligence"
+"AI and Machine Learning Summit",2024-09-02,"10:00 AM - 5:00 PM","Tokyo, Japan","https://example.com/ai-machine-learning-summit","Artificial Intelligence"
+"AI in Agriculture Forum",2024-07-29,"9:00 AM - 4:00 PM","Amsterdam, Netherlands","https://example.com/ai-agriculture-forum","Artificial Intelligence"
+"AI and Quantum Computing Conference",2024-08-16,"11:00 AM - 3:00 PM","Berlin, Germany","https://example.com/ai-quantum-computing-conference","Artificial Intelligence"
+"AI for Healthcare Analytics Workshop",2024-09-07,"1:00 PM - 4:00 PM","Chicago, USA","https://example.com/ai-healthcare-analytics-workshop","Artificial Intelligence"
+"AI and Education Technology Symposium",2024-07-28,,,"https://example.com/ai-education-technology-symposium","Artificial Intelligence"
+"AI in Industrial IoT Summit",2024-08-12,,,"https://example.com/ai-industrial-iot-summit","Artificial Intelligence"
+"AI and Big Data Conference",2024-09-13,,,"https://example.com/ai-big-data-conference","Artificial Intelligence"
+"AI for Cybersecurity Workshop",2024-07-22,,,"https://example.com/ai-cybersecurity-workshop","Artificial Intelligence"
+"AI and Augmented Reality Seminar",2024-08-03,,,"https://example.com/ai-augmented-reality-seminar","Artificial Intelligence"
+"AI in Automotive Innovation Forum",2024-09-09,,,"https://example.com/ai-automotive-innovation-forum","Artificial Intelligence"
+"AI Ethics and Bias Conference",2024-07-27,,,"https://example.com/ai-ethics-bias-conference","Artificial Intelligence"
+"AI and Blockchain Symposium",2024-08-19,,,"https://example.com/ai-blockchain-symposium","Artificial Intelligence"
+"AI in Drug Discovery Workshop",2024-09-05,,,"https://example.com/ai-drug-discovery-workshop","Artificial Intelligence"
+"AI and Climate Change Forum",2024-07-30,,,"https://example.com/ai-climate-change-forum","Artificial Intelligence"
+"AI for Personalized Medicine Conference",2024-08-24,,,"https://example.com/ai-personalized-medicine-conference","Artificial Intelligence"
+"",2024-07-15,"9:00 AM - 5:00 PM","Virtual Event","https://example.com/ai-healthcare-symposium","Artificial Intelligence"
+"",2024-08-20,"10:00 AM - 4:00 PM","San Francisco, USA","https://example.com/deep-learning-summit","Artificial Intelligence"
+"",2024-09-05,"1:00 PM - 3:30 PM","London, UK","https://example.com/neural-networks-workshop","Artificial Intelligence"
+"",2024-07-30,"11:00 AM - 3:00 PM","New York, USA","https://example.com/ai-finance-forum","Artificial Intelligence"
+"",2024-08-10,"9:30 AM - 12:00 PM","Berlin, Germany","https://example.com/,"Artificial Intelligence"
+"Data Science Symposium",2024-07-15,,,"https://example.com/data-science-symposium","Data Science"
+"AI Ethics Workshop",2024-08-20,,,"https://example.com/ai-ethics-workshop","AI Ethics"
+"Blockchain Conference",2024-09-05,,,"https://example.com/blockchain-conference","Blockchain"
+"IoT Innovation Forum",2024-07-30,,,"https://example.com/iot-innovation-forum","IoT"
+"AR/VR Expo",2024-08-10,,,"https://example.com/ar-vr-expo","AR/VR"
+"Machine Learning Hackathon",2024-09-15,,,"https://example.com/ml-hackathon","Machine Learning"
+"Smart City Summit",2024-08-25,,,"https://example.com/smart-city-summit","Smart City"
+"Robotics Workshop",2024-07-22,,,"https://example.com/robotics-workshop","Robotics"
+"Bioengineering Conference",2024-09-01,,,"https://example.com/bioengineering-conference","Bioengineering"
+"Renewable Energy Forum",2024-08-05,,,"https://example.com/renewable-energy-forum","Renewable Energy"
+"Edge Computing Seminar",2024-07-25,,,"https://example.com/edge-computing-seminar","Edge Computing"
+"Artificial Intelligence Panel",2024-09-10,,,"https://example.com/ai-panel","Artificial Intelligence"
+"Cybersecurity Summit",2024-07-28,,,"https://example.com/cybersecurity-summit","Cybersecurity"
+"5G Technology Conference",2024-08-18,,,"https://example.com/5g-technology-conference","5G Technology"
+"Disaster Management Workshop",2024-09-03,,,"https://example.com/disaster-management-workshop","Disaster Management"
+"Water Resources Forum",2024-07-27,,,"https://example.com/water-resources-forum","Water Resources Management"
+"Geotechnology Symposium",2024-08-08,,,"https://example.com/geotechnology-symposium","Geotechnology"
+"Nanotechnology Conference",2024-09-12,,,"https://example.com/nanotechnology-conference","Nanotechnology"
+"Sustainable City Expo",2024-07-18,,,"https://example.com/sustainable-city-expo","Sustainable City"
+"Data Science Symposium",,,,"https://example.com/data-science-symposium","Data Science"
+"AI Ethics Workshop",,,,"https://example.com/ai-ethics-workshop","AI Ethics"
+"Blockchain Conference",,,,"https://example.com/blockchain-conference","Blockchain"
+"IoT Innovation Forum",,,,"https://example.com/iot-innovation-forum","IoT"
+"AR/VR Expo",,,,"https://example.com/ar-vr-expo","AR/VR"
+"Machine Learning Hackathon",,,,"https://example.com/ml-hackathon","Machine Learning"
+"Smart City Summit",,,,"https://example.com/smart-city-summit","Smart City"
+"Robotics Workshop",,,,"https://example.com/robotics-workshop","Robotics"
+"Bioengineering Conference",,,,"https://example.com/bioengineering-conference","Bioengineering"
+"Renewable Energy Forum",,,,"https://example.com/renewable-energy-forum","Renewable Energy"
+"Edge Computing Seminar",,,,"https://example.com/edge-computing-seminar","Edge Computing"
+"Artificial Intelligence Panel",,,,"https://example.com/ai-panel","Artificial Intelligence"
+"Cybersecurity Summit",,,,"https://example.com/cybersecurity-summit","Cybersecurity"
+"5G Technology Conference",,,,"https://example.com/5g-technology-conference","5G Technology"
+"Disaster Management Workshop",,,,"https://example.com/disaster-management-workshop","Disaster Management"
+"Water Resources Forum",,,,"https://example.com/water-resources-forum","Water Resources Management"
+"Geotechnology Symposium",,,,"https://example.com/geotechnology-symposium","Geotechnology"
+"Nanotechnology Conference",,,,"https://example.com/nanotechnology-conference","Nanotechnology"
+"Sustainable City Expo",,,,"https://example.com/sustainable-city-expo","Sustainable City"
+Advanced PID Control Techniques,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Control Systems
+Optimization of Control Systems,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Control Systems
+Robust Control Design,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Control Systems
+Nonlinear Control Systems,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Control Systems
+Adaptive Control in Engineering,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Control Systems
+Model Predictive Control,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Control Systems
+Intelligent Control Systems,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Control Systems
+Digital Control Systems,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Control Systems
+Real-time Control Systems,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Control Systems
+Control System Design with MATLAB,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Control Systems
+Control Systems for Automation,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Control Systems
+Distributed Control Systems,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Control Systems
+Linear Control Systems,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Control Systems
+Embedded Control Systems,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Control Systems
+Sensor Integration in Control Systems,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Control Systems
+Control Systems for Industrial Applications,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Control Systems
+Fuzzy Logic Control Systems,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Control Systems
+Neural Network Control Systems,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Control Systems
+Control Systems for Renewable Energy,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Control Systems
+Haptic Feedback Control Systems,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Control Systems
+Control Systems for Robotics,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Control Systems
+Control Systems in Aerospace,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Control Systems
+Multi-Agent Control Systems,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Control Systems
+Predictive Maintenance using Control Systems,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Control Systems
+Decentralized Control Systems,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Control Systems
+Advanced Control Systems Design,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Control Systems
+Control Systems for Process Industries,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Control Systems
+Virtual Reality in Control Systems,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Control Systems
+Safety and Reliability in Control Systems,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Control Systems
+IoT in Control Systems,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Control Systems
+Advanced Techniques in Process Intensification,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Process Intensification
+Optimization of Chemical Processes,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Process Intensification
+Innovative Reactors for Process Intensification,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Process Intensification
+Microreactor Technology,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Process Intensification
+Process Intensification in Biotechnology,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Process Intensification
+Modular Process Intensification,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Process Intensification
+Intensification of Separation Processes,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Process Intensification
+Catalysis in Process Intensification,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Process Intensification
+Real-time Monitoring and Control,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Process Intensification
+Process Intensification in Energy Systems,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Process Intensification
+Sustainable Process Intensification,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Process Intensification
+Hybrid Processes in Process Intensification,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Process Intensification
+Novel Process Designs,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Process Intensification
+Intensification of Heat Transfer Processes,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Process Intensification
+Process Intensification in Petrochemicals,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Process Intensification
+Membrane Technology in Process Intensification,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Process Intensification
+Process Intensification through Automation,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Process Intensification
+Energy Efficient Processes,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Process Intensification
+Green Chemistry and Process Intensification,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Process Intensification
+Intensified Processes for Water Treatment,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Process Intensification
+Process Intensification for Food Processing,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Process Intensification
+Advanced Materials for Process Intensification,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Process Intensification
+Microfluidics in Process Intensification,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Process Intensification
+Process Intensification in Pharmaceuticals,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Process Intensification
+Decentralized Process Intensification,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Process Intensification
+Process Intensification through Integration,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Process Intensification
+Process Intensification in Refining,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Process Intensification
+Virtual Reality in Process Intensification,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Process Intensification
+Safety and Reliability in Process Intensification,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Process Intensification
+Digital Twins for Process Intensification,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Process Intensification
+Genomics and Personalized Medicine,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Personalized Medicine
+Precision Medicine: Advances and Applications,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Personalized Medicine
+Clinical Pharmacogenomics Workshop,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Personalized Medicine
+Bioinformatics in Personalized Medicine,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Personalized Medicine
+Omics Technologies in Personalized Healthcare,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Personalized Medicine
+Artificial Intelligence in Personalized Medicine,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Personalized Medicine
+Pharmacogenetics and Drug Response,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Personalized Medicine
+Clinical Proteomics and Personalized Therapy,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Personalized Medicine
+Genomic Data Analysis for Personalized Treatment,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Personalized Medicine
+Ethical Issues in Personalized Medicine,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Personalized Medicine
+Patient-specific Treatment Strategies,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Personalized Medicine
+Microbiome and Personalized Health,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Personalized Medicine
+Regenerative Medicine and Personalized Therapy,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Personalized Medicine
+Digital Health Technologies in Personalized Medicine,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Personalized Medicine
+Nutrigenomics and Personalized Nutrition,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Personalized Medicine
+Clinical Application of Personalized Medicine,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Personalized Medicine
+AI-driven Diagnostics for Personalized Treatment,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Personalized Medicine
+Biomarker Discovery in Personalized Medicine,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Personalized Medicine
+Genetic Counseling and Personalized Care,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Personalized Medicine
+Digital Twin for Personalized Healthcare,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Personalized Medicine
+Clinical Implementation of Personalized Therapies,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Personalized Medicine
+Bioinformatics Tools for Personalized Medicine,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Personalized Medicine
+AI and Machine Learning in Personalized Medicine,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Personalized Medicine
+Genomic Medicine and Personalized Diagnosis,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Personalized Medicine
+Health Data Analytics for Personalized Care,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Personalized Medicine
+Pharmacogenomics in Clinical Practice,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Personalized Medicine
+Mobile Health Technologies for Personalized Medicine,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Personalized Medicine
+Personalized Medicine in Cancer Therapy,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Personalized Medicine
+Ethnic Diversity in Personalized Healthcare,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Personalized Medicine
+Clinical Trials and Personalized Medicine,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Personalized Medicine
+Current Trends in Biopharmaceuticals,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Drug Development,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Bio-Pharmaceutical
+Biomanufacturing Technologies,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Bio-Pharmaceutical
+Gene Therapy in Biopharmaceuticals,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Regulatory Affairs,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Bio-Pharmaceutical
+Monoclonal Antibodies and Biopharmaceuticals,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Bio-Pharmaceutical
+Clinical Trials in Biopharmaceuticals,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Formulation Development,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Bio-Pharmaceutical
+Stem Cells in Biopharmaceuticals,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Bio-Pharmaceutical
+Biosimilars: Challenges and Opportunities,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Quality Control,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Bio-Pharmaceutical
+Industrial Biotechnology in Biopharmaceuticals,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Bio-Pharmaceutical
+Personalized Medicine and Biopharmaceuticals,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Bio-Pharmaceutical
+Vaccines and Biopharmaceuticals,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Bio-Pharmaceutical
+Drug Delivery Systems in Biopharmaceuticals,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Bio-Pharmaceutical
+Nanotechnology in Biopharmaceuticals,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Bio-Pharmaceutical
+Artificial Intelligence in Biopharmaceuticals,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Product Development,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Market Trends,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Innovation Summit,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Bio-Pharmaceutical
+Bioinformatics in Biopharmaceutical Research,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Process Optimization,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Supply Chain Management,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Patents and Intellectual Property,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Scale-up and Manufacturing,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Bio-Pharmaceutical
+Regulatory Landscape in Biopharmaceuticals,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Bio-Pharmaceutical
+Clinical Development of Biopharmaceuticals,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Research and Development,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Manufacturing Technologies,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Bio-Pharmaceutical
+Digital Transformation in Biopharmaceuticals,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Bio-Pharmaceutical
+Advanced Concepts in Mechanical Design,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Design and Actuation
+Innovations in Actuator Technology,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Design and Actuation
+Mechatronics and Control Systems,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Design and Actuation
+Robotics and Automation in Mechanical Design,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Design and Actuation
+Sensors and Actuators for Smart Systems,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Design and Actuation
+Design Optimization Techniques,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Design and Actuation
+Advanced Materials in Mechanical Design,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Design and Actuation
+Human-Robot Interaction,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Design and Actuation
+Bio-inspired Design and Actuation,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Design and Actuation
+Micro/Nano Actuators and Devices,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Design and Actuation
+Simulation and Modeling in Mechanical Design,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Design and Actuation
+Additive Manufacturing in Mechanical Design,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Design and Actuation
+Design for Manufacturing and Assembly,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Design and Actuation
+Control Strategies for Actuators,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Design and Actuation
+MEMS and NEMS Technology,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Design and Actuation
+Energy Harvesting Systems,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Design and Actuation
+Design of Exoskeletons and Prosthetics,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Design and Actuation
+Advanced Control Algorithms,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Design and Actuation
+CAD/CAM in Mechanical Design,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Design and Actuation
+Mechanical Systems Integration,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Design and Actuation
+Human-Centered Design,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Design and Actuation
+Design Thinking and Innovation,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Design and Actuation
+Precision Engineering and Design,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Design and Actuation
+Machine Learning in Mechanical Design,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Design and Actuation
+Smart Materials and Actuators,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Design and Actuation
+Mechanical Design for Robotics,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Design and Actuation
+Digital Twins in Mechanical Design,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Design and Actuation
+Virtual Reality in Mechanical Design,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Design and Actuation
+Design Validation and Testing,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Design and Actuation
+Industry 4.0 and Mechanical Design,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Design and Actuation
+Healthcare Analytics and Management,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Health Management
+Telehealth Innovations Summit,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Health Management
+Hospital Administration and Operations,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Health Management
+Public Health Policy and Management,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Health Management
+Digital Health Technologies,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Health Management
+Healthcare Quality and Patient Safety,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Health Management
+Health Informatics and Data Management,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Health Management
+Global Health Challenges and Solutions,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Health Management
+Epidemiology and Disease Control,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Health Management
+Healthcare Leadership and Strategy,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Health Management
+Healthcare Finance and Economics,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Health Management
+Mental Health Management,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Health Management
+Healthcare Technology Assessment,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Health Management
+Healthcare Ethics and Law,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Health Management
+Healthcare Innovation and Entrepreneurship,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Health Management
+Population Health Management,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Health Management
+Healthcare Information Systems,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Health Management
+Healthcare Risk Management,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Health Management
+Healthcare Innovation Summit,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Health Management
+Global Health Diplomacy,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Health Management
+Healthcare Big Data Analytics,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Health Management
+Precision Medicine and Healthcare,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Health Management
+Healthcare Management in Emerging Markets,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Health Management
+Healthcare Policy Development,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Health Management
+Artificial Intelligence in Healthcare,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Health Management
+Healthcare Operations Management,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Health Management
+Healthcare Informatics and Decision Support,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Health Management
+Healthcare Service Delivery Models,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Health Management
+Public Health Emergency Preparedness,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Health Management
+Digital Transformation in Healthcare,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Health Management
+Sustainable Water Management Practices,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Environmental Engineering
+Air Pollution Control Technologies,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Environmental Engineering
+Waste Management and Recycling Strategies,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Environmental Engineering
+Climate Change Adaptation and Mitigation,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Environmental Engineering
+Environmental Impact Assessment,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Environmental Engineering
+Renewable Energy and Sustainability,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Environmental Engineering
+Industrial Ecology and Green Design,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Environmental Engineering
+Urban Environmental Management,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Environmental Engineering
+Ecological Restoration Techniques,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Environmental Engineering
+Environmental Monitoring and Modeling,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Environmental Engineering
+Water Quality Management,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Environmental Engineering
+Natural Resource Conservation,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Environmental Engineering
+Climate Resilient Infrastructure,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Environmental Engineering
+Green Technologies for Sustainable Development,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Environmental Engineering
+Environmental Policy and Regulation,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Environmental Engineering
+Circular Economy and Resource Efficiency,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Environmental Engineering
+Environmental Health and Safety,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Environmental Engineering
+Biodiversity Conservation Strategies,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Environmental Engineering
+Environmental Chemistry and Microbiology,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Environmental Engineering
+Green Building and Infrastructure Design,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Environmental Engineering
+Climate Policy and Governance,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Environmental Engineering
+Water Resource Engineering,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Environmental Engineering
+Sustainable Agriculture and Environment,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Environmental Engineering
+Ecotoxicology and Environmental Health,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Environmental Engineering
+Environmental Ethics and Philosophy,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Environmental Engineering
+Smart Cities and Environmental Sustainability,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Environmental Engineering
+Environmental Education and Awareness,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Environmental Engineering
+Industrial Pollution Control,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Environmental Engineering
+Sustainable Development Goals (SDGs) and Environment,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Environmental Engineering
+Eco-friendly Technologies and Innovations,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Environmental Engineering
+Future of Consumer Electronics,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Consumption Technology
+Digital Transformation in Retail,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Consumption Technology
+E-commerce Trends and Innovations,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Consumption Technology
+Smart Homes and IoT Devices,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Consumption Technology
+Blockchain in Supply Chain Management,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Consumption Technology
+Augmented Reality in Retail Experience,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Consumption Technology
+Data Analytics for Consumer Behavior,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Consumption Technology
+Personalized Marketing Strategies,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Consumption Technology
+Artificial Intelligence in Retail Operations,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Consumption Technology
+Consumer Psychology and Decision Making,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Consumption Technology
+Digital Payments and Financial Inclusion,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Consumption Technology
+Retail Innovations in Emerging Markets,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Consumption Technology
+Cybersecurity in Retail Environments,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Consumption Technology
+Virtual Reality Shopping Experiences,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Consumption Technology
+Omni-channel Retail Strategies,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Consumption Technology
+Sustainable Consumption Practices,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Consumption Technology
+Consumer Privacy and Data Protection,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Consumption Technology
+Future Trends in Food Technology,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Consumption Technology
+Innovative Packaging Solutions,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Consumption Technology
+E-commerce Platforms and Marketplaces,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Consumption Technology
+Retail Supply Chain Optimization,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Consumption Technology
+Consumer Trends in Health and Wellness,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Consumption Technology
+Social Media Influencing Consumer Behavior,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Consumption Technology
+Robotic Automation in Retail Logistics,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Consumption Technology
+Environmental Sustainability in Retail,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Consumption Technology
+Consumer Experience Design,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Consumption Technology
+Ethical Consumerism and Corporate Responsibility,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Consumption Technology
+AI-powered Personalization in Retail,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Consumption Technology
+Digital Marketing Strategies for Retailers,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Consumption Technology
+Innovation in Customer Engagement,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Consumption Technology
+Advanced PID Control Techniques,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Control Systems
+Optimization of Control Systems,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Control Systems
+Robust Control Design,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Control Systems
+Nonlinear Control Systems,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Control Systems
+Adaptive Control in Engineering,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Control Systems
+Model Predictive Control,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Control Systems
+Intelligent Control Systems,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Control Systems
+Digital Control Systems,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Control Systems
+Real-time Control Systems,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Control Systems
+Control System Design with MATLAB,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Control Systems
+Control Systems for Automation,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Control Systems
+Distributed Control Systems,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Control Systems
+Linear Control Systems,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Control Systems
+Embedded Control Systems,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Control Systems
+Sensor Integration in Control Systems,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Control Systems
+Control Systems for Industrial Applications,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Control Systems
+Fuzzy Logic Control Systems,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Control Systems
+Neural Network Control Systems,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Control Systems
+Control Systems for Renewable Energy,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Control Systems
+Haptic Feedback Control Systems,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Control Systems
+Control Systems for Robotics,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Control Systems
+Control Systems in Aerospace,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Control Systems
+Multi-Agent Control Systems,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Control Systems
+Predictive Maintenance using Control Systems,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Control Systems
+Decentralized Control Systems,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Control Systems
+Advanced Control Systems Design,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Control Systems
+Control Systems for Process Industries,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Control Systems
+Virtual Reality in Control Systems,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Control Systems
+Safety and Reliability in Control Systems,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Control Systems
+IoT in Control Systems,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Control Systems
+Advanced Techniques in Process Intensification,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Process Intensification
+Optimization of Chemical Processes,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Process Intensification
+Innovative Reactors for Process Intensification,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Process Intensification
+Microreactor Technology,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Process Intensification
+Process Intensification in Biotechnology,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Process Intensification
+Modular Process Intensification,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Process Intensification
+Intensification of Separation Processes,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Process Intensification
+Catalysis in Process Intensification,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Process Intensification
+Real-time Monitoring and Control,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Process Intensification
+Process Intensification in Energy Systems,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Process Intensification
+Sustainable Process Intensification,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Process Intensification
+Hybrid Processes in Process Intensification,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Process Intensification
+Novel Process Designs,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Process Intensification
+Intensification of Heat Transfer Processes,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Process Intensification
+Process Intensification in Petrochemicals,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Process Intensification
+Membrane Technology in Process Intensification,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Process Intensification
+Process Intensification through Automation,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Process Intensification
+Energy Efficient Processes,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Process Intensification
+Green Chemistry and Process Intensification,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Process Intensification
+Intensified Processes for Water Treatment,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Process Intensification
+Process Intensification for Food Processing,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Process Intensification
+Advanced Materials for Process Intensification,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Process Intensification
+Microfluidics in Process Intensification,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Process Intensification
+Process Intensification in Pharmaceuticals,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Process Intensification
+Decentralized Process Intensification,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Process Intensification
+Process Intensification through Integration,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Process Intensification
+Process Intensification in Refining,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Process Intensification
+Virtual Reality in Process Intensification,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Process Intensification
+Safety and Reliability in Process Intensification,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Process Intensification
+Digital Twins for Process Intensification,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Process Intensification
+Genomics and Personalized Medicine,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Personalized Medicine
+Precision Medicine: Advances and Applications,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Personalized Medicine
+Clinical Pharmacogenomics Workshop,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Personalized Medicine
+Bioinformatics in Personalized Medicine,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Personalized Medicine
+Omics Technologies in Personalized Healthcare,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Personalized Medicine
+Artificial Intelligence in Personalized Medicine,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Personalized Medicine
+Pharmacogenetics and Drug Response,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Personalized Medicine
+Clinical Proteomics and Personalized Therapy,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Personalized Medicine
+Genomic Data Analysis for Personalized Treatment,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Personalized Medicine
+Ethical Issues in Personalized Medicine,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Personalized Medicine
+Patient-specific Treatment Strategies,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Personalized Medicine
+Microbiome and Personalized Health,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Personalized Medicine
+Regenerative Medicine and Personalized Therapy,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Personalized Medicine
+Digital Health Technologies in Personalized Medicine,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Personalized Medicine
+Nutrigenomics and Personalized Nutrition,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Personalized Medicine
+Clinical Application of Personalized Medicine,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Personalized Medicine
+AI-driven Diagnostics for Personalized Treatment,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Personalized Medicine
+Biomarker Discovery in Personalized Medicine,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Personalized Medicine
+Genetic Counseling and Personalized Care,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Personalized Medicine
+Digital Twin for Personalized Healthcare,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Personalized Medicine
+Clinical Implementation of Personalized Therapies,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Personalized Medicine
+Bioinformatics Tools for Personalized Medicine,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Personalized Medicine
+AI and Machine Learning in Personalized Medicine,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Personalized Medicine
+Genomic Medicine and Personalized Diagnosis,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Personalized Medicine
+Health Data Analytics for Personalized Care,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Personalized Medicine
+Pharmacogenomics in Clinical Practice,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Personalized Medicine
+Mobile Health Technologies for Personalized Medicine,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Personalized Medicine
+Personalized Medicine in Cancer Therapy,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Personalized Medicine
+Ethnic Diversity in Personalized Healthcare,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Personalized Medicine
+Clinical Trials and Personalized Medicine,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Personalized Medicine
+Current Trends in Biopharmaceuticals,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Drug Development,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Bio-Pharmaceutical
+Biomanufacturing Technologies,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Bio-Pharmaceutical
+Gene Therapy in Biopharmaceuticals,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Regulatory Affairs,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Bio-Pharmaceutical
+Monoclonal Antibodies and Biopharmaceuticals,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Bio-Pharmaceutical
+Clinical Trials in Biopharmaceuticals,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Formulation Development,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Bio-Pharmaceutical
+Stem Cells in Biopharmaceuticals,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Bio-Pharmaceutical
+Biosimilars: Challenges and Opportunities,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Quality Control,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Bio-Pharmaceutical
+Industrial Biotechnology in Biopharmaceuticals,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Bio-Pharmaceutical
+Personalized Medicine and Biopharmaceuticals,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Bio-Pharmaceutical
+Vaccines and Biopharmaceuticals,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Bio-Pharmaceutical
+Drug Delivery Systems in Biopharmaceuticals,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Bio-Pharmaceutical
+Nanotechnology in Biopharmaceuticals,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Bio-Pharmaceutical
+Artificial Intelligence in Biopharmaceuticals,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Product Development,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Market Trends,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Innovation Summit,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Bio-Pharmaceutical
+Bioinformatics in Biopharmaceutical Research,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Process Optimization,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Supply Chain Management,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Patents and Intellectual Property,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Scale-up and Manufacturing,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Bio-Pharmaceutical
+Regulatory Landscape in Biopharmaceuticals,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Bio-Pharmaceutical
+Clinical Development of Biopharmaceuticals,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Research and Development,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Bio-Pharmaceutical
+Biopharmaceutical Manufacturing Technologies,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Bio-Pharmaceutical
+Digital Transformation in Biopharmaceuticals,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Bio-Pharmaceutical
+Advanced Concepts in Mechanical Design,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Design and Actuation
+Innovations in Actuator Technology,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Design and Actuation
+Mechatronics and Control Systems,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Design and Actuation
+Robotics and Automation in Mechanical Design,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Design and Actuation
+Sensors and Actuators for Smart Systems,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Design and Actuation
+Design Optimization Techniques,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Design and Actuation
+Advanced Materials in Mechanical Design,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Design and Actuation
+Human-Robot Interaction,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Design and Actuation
+Bio-inspired Design and Actuation,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Design and Actuation
+Micro/Nano Actuators and Devices,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Design and Actuation
+Simulation and Modeling in Mechanical Design,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Design and Actuation
+Additive Manufacturing in Mechanical Design,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Design and Actuation
+Design for Manufacturing and Assembly,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Design and Actuation
+Control Strategies for Actuators,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Design and Actuation
+MEMS and NEMS Technology,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Design and Actuation
+Energy Harvesting Systems,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Design and Actuation
+Design of Exoskeletons and Prosthetics,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Design and Actuation
+Advanced Control Algorithms,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Design and Actuation
+CAD/CAM in Mechanical Design,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Design and Actuation
+Mechanical Systems Integration,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Design and Actuation
+Human-Centered Design,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Design and Actuation
+Design Thinking and Innovation,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Design and Actuation
+Precision Engineering and Design,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Design and Actuation
+Machine Learning in Mechanical Design,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Design and Actuation
+Smart Materials and Actuators,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Design and Actuation
+Mechanical Design for Robotics,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Design and Actuation
+Digital Twins in Mechanical Design,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Design and Actuation
+Virtual Reality in Mechanical Design,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Design and Actuation
+Design Validation and Testing,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Design and Actuation
+Industry 4.0 and Mechanical Design,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Design and Actuation
+Healthcare Analytics and Management,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Health Management
+Telehealth Innovations Summit,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Health Management
+Hospital Administration and Operations,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Health Management
+Public Health Policy and Management,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Health Management
+Digital Health Technologies,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Health Management
+Healthcare Quality and Patient Safety,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Health Management
+Health Informatics and Data Management,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Health Management
+Global Health Challenges and Solutions,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Health Management
+Epidemiology and Disease Control,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Health Management
+Healthcare Leadership and Strategy,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Health Management
+Healthcare Finance and Economics,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Health Management
+Mental Health Management,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Health Management
+Healthcare Technology Assessment,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Health Management
+Healthcare Ethics and Law,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Health Management
+Healthcare Innovation and Entrepreneurship,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Health Management
+Population Health Management,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Health Management
+Healthcare Information Systems,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Health Management
+Healthcare Risk Management,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Health Management
+Healthcare Innovation Summit,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Health Management
+Global Health Diplomacy,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Health Management
+Healthcare Big Data Analytics,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Health Management
+Precision Medicine and Healthcare,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Health Management
+Healthcare Management in Emerging Markets,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Health Management
+Healthcare Policy Development,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Health Management
+Artificial Intelligence in Healthcare,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Health Management
+Healthcare Operations Management,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Health Management
+Healthcare Informatics and Decision Support,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Health Management
+Healthcare Service Delivery Models,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Health Management
+Public Health Emergency Preparedness,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Health Management
+Digital Transformation in Healthcare,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Health Management
+Sustainable Water Management Practices,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Environmental Engineering
+Air Pollution Control Technologies,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Environmental Engineering
+Waste Management and Recycling Strategies,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Environmental Engineering
+Climate Change Adaptation and Mitigation,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Environmental Engineering
+Environmental Impact Assessment,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Environmental Engineering
+Renewable Energy and Sustainability,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Environmental Engineering
+Industrial Ecology and Green Design,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Environmental Engineering
+Urban Environmental Management,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Environmental Engineering
+Ecological Restoration Techniques,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Environmental Engineering
+Environmental Monitoring and Modeling,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Environmental Engineering
+Water Quality Management,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Environmental Engineering
+Natural Resource Conservation,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Environmental Engineering
+Climate Resilient Infrastructure,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Environmental Engineering
+Green Technologies for Sustainable Development,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Environmental Engineering
+Environmental Policy and Regulation,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Environmental Engineering
+Circular Economy and Resource Efficiency,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Environmental Engineering
+Environmental Health and Safety,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Environmental Engineering
+Biodiversity Conservation Strategies,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Environmental Engineering
+Environmental Chemistry and Microbiology,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Environmental Engineering
+Green Building and Infrastructure Design,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Environmental Engineering
+Climate Policy and Governance,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Environmental Engineering
+Water Resource Engineering,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Environmental Engineering
+Sustainable Agriculture and Environment,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Environmental Engineering
+Ecotoxicology and Environmental Health,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Environmental Engineering
+Environmental Ethics and Philosophy,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Environmental Engineering
+Smart Cities and Environmental Sustainability,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Environmental Engineering
+Environmental Education and Awareness,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Environmental Engineering
+Industrial Pollution Control,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Environmental Engineering
+Sustainable Development Goals (SDGs) and Environment,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Environmental Engineering
+Eco-friendly Technologies and Innovations,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Environmental Engineering
+Future of Consumer Electronics,2024-07-10,10:00 AM,IIT Bombay,https://www.iitb.ac.in,Consumption Technology
+Digital Transformation in Retail,2024-07-12,11:00 AM,NIT Trichy,https://www.nitt.edu,Consumption Technology
+E-commerce Trends and Innovations,2024-07-15,2:00 PM,IIT Delhi,https://www.iitd.ac.in,Consumption Technology
+Smart Homes and IoT Devices,2024-07-18,9:00 AM,IIT Madras,https://www.iitm.ac.in,Consumption Technology
+Blockchain in Supply Chain Management,2024-07-20,1:00 PM,NIT Warangal,https://www.nitw.ac.in,Consumption Technology
+Augmented Reality in Retail Experience,2024-07-23,3:00 PM,IIT Kanpur,https://www.iitk.ac.in,Consumption Technology
+Data Analytics for Consumer Behavior,2024-07-25,10:00 AM,NIT Surathkal,https://www.nitk.ac.in,Consumption Technology
+Personalized Marketing Strategies,2024-07-28,11:00 AM,IIT Kharagpur,https://www.iitkgp.ac.in,Consumption Technology
+Artificial Intelligence in Retail Operations,2024-07-30,2:00 PM,NIT Calicut,https://www.nitc.ac.in,Consumption Technology
+Consumer Psychology and Decision Making,2024-08-01,9:00 AM,IIT Roorkee,https://www.iitr.ac.in,Consumption Technology
+Digital Payments and Financial Inclusion,2024-08-05,1:00 PM,NIT Rourkela,https://www.nitrkl.ac.in,Consumption Technology
+Retail Innovations in Emerging Markets,2024-08-08,3:00 PM,IIT Guwahati,https://www.iitg.ac.in,Consumption Technology
+Cybersecurity in Retail Environments,2024-08-10,10:00 AM,NIT Durgapur,https://www.nitdgp.ac.in,Consumption Technology
+Virtual Reality Shopping Experiences,2024-08-12,11:00 AM,IIT Hyderabad,https://www.iith.ac.in,Consumption Technology
+Omni-channel Retail Strategies,2024-08-15,2:00 PM,NIT Silchar,https://www.nits.ac.in,Consumption Technology
+Sustainable Consumption Practices,2024-08-18,9:00 AM,IIT Gandhinagar,https://www.iitgn.ac.in,Consumption Technology
+Consumer Privacy and Data Protection,2024-08-20,1:00 PM,NIT Jaipur,https://www.nitj.ac.in,Consumption Technology
+Future Trends in Food Technology,2024-08-22,3:00 PM,IIT Bhubaneswar,https://www.iitbbs.ac.in,Consumption Technology
+Innovative Packaging Solutions,2024-08-25,10:00 AM,NIT Patna,https://www.nitp.ac.in,Consumption Technology
+E-commerce Platforms and Marketplaces,2024-08-28,11:00 AM,IIT Ropar,https://www.iitrpr.ac.in,Consumption Technology
+Retail Supply Chain Optimization,2024-09-01,2:00 PM,NIT Kurukshetra,https://www.nitkkr.ac.in,Consumption Technology
+Consumer Trends in Health and Wellness,2024-09-05,9:00 AM,IIT Jodhpur,https://www.iitj.ac.in,Consumption Technology
+Social Media Influencing Consumer Behavior,2024-09-08,1:00 PM,NIT Meghalaya,https://www.nitm.ac.in,Consumption Technology
+Robotic Automation in Retail Logistics,2024-09-10,3:00 PM,IIT Indore,https://www.iiti.ac.in,Consumption Technology
+Environmental Sustainability in Retail,2024-09-12,10:00 AM,NIT Hamirpur,https://www.nith.ac.in,Consumption Technology
+Consumer Experience Design,2024-09-15,11:00 AM,IIT BHU,https://www.iitbhu.ac.in,Consumption Technology
+Ethical Consumerism and Corporate Responsibility,2024-09-18,2:00 PM,NIT Agartala,https://www.nita.ac.in,Consumption Technology
+AI-powered Personalization in Retail,2024-09-20,9:00 AM,IIT Mandi,https://www.iitmandi.ac.in,Consumption Technology
+Digital Marketing Strategies for Retailers,2024-09-25,1:00 PM,NIT Jamshedpur,https://www.nitjsr.ac.in,Consumption Technology
+Innovation in Customer Engagement,2024-09-30,3:00 PM,IIT Palakkad,https://www.iitpkd.ac.in,Consumption Technology
+
+
+
+
+

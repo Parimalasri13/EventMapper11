@@ -1,0 +1,30 @@
+[
+    {
+        "context": "18 Apr 03:30 PM Spectrum Inspired Low-light Image Translation for Saliency Detection Saliency detection methods are crucial in various… 11 Apr 11:00 AM Acoustic metamaterials for underwater sound attenuation Suppression of noise is vital to many branches of… 10 Apr 10:00 AM Optimization of utility-based shortfall risk: A non-asymptotic viewpoint We consider the problems of estimation and optimization… 10 Apr 03:00 AM Adaptive experimentation approach for efficient computation of crystal… The wide utilization of crystal plasticity models within… 08 Apr 04:00 PM Cognition, Planning, and Sensorimotor Integration in Object Manipulation Successful object centric actions belie the complex… 08 Apr 03:00 PM NEURAL CORRELATES OF OBJECT MANIPULATION IN HEALTHY AGING As an individual ages, there is a decline in precise… 08 Apr 03:00 PM When surfaces matter: how nano-scaled surface features effect macro-scale… Typical heat transfer correlations or surface property… 08 Apr 02:30 PM Combinatorial Effects of 5FU-Menadione and 5FU-Plumbagin on Wnt/β-catenin… The incidence and mortality rates of colorectal cancer (… 06 Apr 09:00 AM EE Research Scholars Symposium 05 Apr 03:00 PM Unified Logistics Interface Platform (ULIP): a game changer and UPI moment for… The Unified Logistics Interface Platform (ULIP),… 05 Apr 03:00 PM Control techniques and converter topologies for the reduction of torque ripple… In recent days, there has been considerable interest in… 05 Apr 03:00 PM Sustainable energy storage devices for flexible electronics The integration of micro-supercapacitors (mSCs) with… 05 Apr 09:00 AM Developing Machine Learning calibration models for low-cost sensors Advancements in low-cost sensors (LCS) have enabled… 04 Apr 04:00 PM Understanding Electrochemical Properties of Alternate Energy Storage… Since renewable energy sources, such as solar and wind… 04 Apr 03:30 PM Characteristic study of inductance and capacitance based sensor for condition… Condition monitoring of machinery through the analysis… 04 Apr 03:00 PM Development of MAB phase material for thermal control in spacecrafts Spacecraft components are exposed to environments like… 04 Apr 02:30 PM Dynamics of interacting thermoacoustic systems 04 Apr 02:30 PM RBCDSAI Faculty talk Agenda: 2:30-3 pm, Dr. Sivaram Ambikasaran- Talk… 04 Apr 02:00 PM Sparse regression codes for noncoherent multi-antenna channels Widely used codes, such as turbo and LDPC codes, have… 04 Apr 12:00 PM Evaluation of Network Model for functional Microfluidic devices Microfluidics is the study of the manipulation of fluids…",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What are the events related to civil engineering?",
+                "answers": [
+                    {
+                        "text": "None",
+                        "answer_start": 0
+                    }
+                    
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What are the events related to Machine Learning?",
+                "answers": [
+                    {
+                        "text": "Developing Machine Learning calibration models for low-cost sensors Advancements in low-cost sensors (LCS) have enabled…",
+                        "answer_start": 1837
+                    }
+                ]
+            }   
+        ]
+    }
+]
