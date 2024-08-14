@@ -24,7 +24,7 @@ function App() {
   
       try {
         // Sending the input value to the backend
-        const response = await axios.post('http://localhost:3003/data', { input });
+        const response = await axios.post('https://eventmapper11.onrender.com/data', { input });
   
         const data = response.data;
         console.log('Data:', data);
@@ -55,7 +55,7 @@ function App() {
   useEffect(() => {
     const fetchChatHistory = async () => {
       try {
-        const response = await fetch(`http://localhost:3003/chat-history/${localStorage.getItem('userId')}`, {
+        const response = await fetch(`https://eventmapper11.onrender.com/chat-history/${localStorage.getItem('userId')}`, {
           headers: {
             'Authorization': `Bearer ${localStorage.getItem('token')}`
           }

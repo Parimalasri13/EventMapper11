@@ -24,7 +24,7 @@ const Signin = () => {
     console.log('Password:', password);
 
     try {
-      const response = await axios.post('http://localhost:3003/login', { email, password });
+      const response = await axios.post('https://eventmapper11.onrender.com/login', { email, password });
       toast.success('Login successful!.');
       login();
       Navigate('/');
@@ -51,7 +51,7 @@ const Signin = () => {
     }
 
     try {
-      const response = await axios.post('http://localhost:3003/register', { username, email, password,confirmPassword });
+      const response = await axios.post('https://eventmapper11.onrender.com/register', { username, email, password,confirmPassword });
       toast.success('Registration successful! You can now log in.');
       setMessage('Registration successful! You can now log in.');
       setError('');

@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.use(cors({
-    origin: 'http://localhost:3000', // Allow only this origin
+    origin: 'https://eventmapper11.netlify.app/', // Allow only this origin
     methods: 'GET,POST',           // Allow only these methods
     allowedHeaders: 'Content-Type,Authorization' // Allow only these headers
 }));
