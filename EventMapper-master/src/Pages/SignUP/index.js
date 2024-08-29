@@ -4,7 +4,7 @@ import axios from 'axios';
 import './Signin.css';
 import { useNavigate } from 'react-router-dom';
 import toast from 'react-hot-toast'; // Import toast
-import { Navigate } from 'react-router-dom';
+
 import { useAuth } from '../../AuthContext';
 
 const Signin = () => {
@@ -25,6 +25,7 @@ const Signin = () => {
 
     try {
       const response = await axios.post('https://eventmapper11.onrender.com/login', { email, password });
+      console.log('Response:', response.data);
       toast.success('Login successful!.');
       login();
       Navigate('/');
@@ -52,6 +53,7 @@ const Signin = () => {
 
     try {
       const response = await axios.post('https://eventmapper11.onrender.com/register', { username, email, password,confirmPassword });
+      console.log('Response:', response.data);
       toast.success('Registration successful! You can now log in.');
       setMessage('Registration successful! You can now log in.');
       setError('');

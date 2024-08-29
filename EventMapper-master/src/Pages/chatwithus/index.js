@@ -9,7 +9,7 @@ function App() {
   const [chatHistories, setChatHistories] = useState([]);
   const [activeChat, setActiveChat] = useState(0);
   const [theme, setTheme] = useState('light');
-  const [tableName, setTableName] = useState('');
+
 
 
 
@@ -39,12 +39,12 @@ function App() {
           // Set messages with all bot responses
           setMessages((prevMessages) => [...prevMessages, ...botResponses]);
         } else {
-          const botResponse = { type: 'bot', text: "Sorry, I couldn't find any matching events." };
+          const botResponse = { type: 'bot', text: "No events found" };
           setMessages((prevMessages) => [...prevMessages, botResponse]);
         }
       } catch (error) {
         console.error('Error retrieving event:', error);
-        const errorResponse = { type: 'bot', text: "An error occurred. Please try again later." };
+        const errorResponse = { type: 'bot', text: "use only commands : Artificial Intelligence,Academics,Cyber Security,Machine Learning,Data Science,IoT,Edge Computing,BlockChain,Bioengineering " };
         setMessages((prevMessages) => [...prevMessages, errorResponse]);
       }
     }
@@ -76,17 +76,10 @@ function App() {
   }, []);
     
 
-  const updateChatHistory = (updatedMessages) => {
-    setChatHistories((prevHistories) => {
-      const newHistories = [...prevHistories];
-      newHistories[activeChat] = updatedMessages;
-      return newHistories;
-    });
-  };
-
+ 
   const handleInputChange = (e) => {
     setInput(e.target.value);
-    setTableName(e.target.value);
+   
     
   };
 
